@@ -1,16 +1,29 @@
-import Head from "next/head";
-import Image from "next/image";
-
 export default function Home() {
   return (
-    <div>
-      <Head>
-        <title>sevaztian</title>
-        <meta name="description" content="One short song a week." />
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
-      <h1 className="text-3xl font-bold underline">sevaztian</h1>
-      <div>One short song a week.</div>
-    </div>
+    <>
+      <h1 className="text-2xl font-bold pb-1">sevaztian</h1>
+      <p className="italic pb-4">One short song a week.</p>
+      <p>
+        Currently working on this website. It will be updated frequently. Please
+        check back in the coming days.
+      </p>
+      <div className="mt-4">
+        <a
+          href="https://soundcloud.com/sevaztian"
+          target="_blank"
+          className="underline text-sky-700 hover:text-sky-900"
+        >
+          SoundCloud
+        </a>
+        <br />
+        <a
+          href="https://audius.co/sevaztian/"
+          target="_blank"
+          className="underline text-sky-700 hover:text-sky-900"
+        >
+          Audius
+        </a>
+      </div>
+    </>
   );
 }
