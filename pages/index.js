@@ -9,7 +9,7 @@ export default function Home() {
         <meta name="description" content="One short song a week." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
+      <h1 className="text-3xl font-bold underline">sevaztian</h1>
       <div>One short song a week.</div>
     </div>
   );
