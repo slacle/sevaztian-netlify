@@ -10,7 +10,6 @@ export default function Home() {
       <div className="mt-4">
         <a
           href="https://soundcloud.com/sevaztian"
-          target="_blank"
           className="underline text-sky-700 hover:text-sky-900"
         >
           SoundCloud
@@ -18,7 +17,6 @@ export default function Home() {
         <br />
         <a
           href="https://audius.co/sevaztian/"
-          target="_blank"
           className="underline text-sky-700 hover:text-sky-900"
         >
           Audius
