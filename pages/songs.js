@@ -1,8 +1,13 @@
+import songs from "../db.json";
+import SongListItem from "../components/layout/SongListItem";
+
 export default function Songs() {
   return (
     <>
-      <h1 className="text-2xl font-bold pb-1">Songs</h1>
-      <div>List of all songs coming soon...</div>
+      <h1 className="text-2xl font-bold pb-1 mb-5">Songs</h1>
+      {songs.map((song) => (
+        <SongListItem key={song.id} song={song} />
+      ))}
     </>
   );
 }
