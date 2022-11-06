@@ -9,7 +9,7 @@ export default function Song({ song }) {
       </Head>
       <div className="none">
         <iframe
-          src={`https://audius.co/embed/track/${song.audius}?flavor=card`}
+          src={`https://audius.co/embed/track/${song.audius_id}?flavor=card`}
           width="400"
           height="480"
           allow="encrypted-media"

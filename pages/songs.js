@@ -6,7 +6,7 @@ export default function Songs() {
     <>
       <h1 className="text-2xl font-bold pb-1 mb-5">Songs</h1>
       {songs.map((song) => (
-        <SongListItem key={song.id} song={song} />
+        <SongListItem key={song.audius_id} song={song} />
       ))}
     </>
   );
