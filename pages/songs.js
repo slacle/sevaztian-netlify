@@ -4,7 +4,7 @@ import SongListItem from "../components/layout/SongListItem";
 export default function Songs() {
   return (
     <>
-      <div className="inline-block min-w-full rounded-lg overflow-hidden my-5">
+      <div className="inline-block min-w-full rounded-lg overflow-hidden">
         <table className="min-w-full leading-normal text-center">
           <thead>
             <tr>
