@@ -3,10 +3,10 @@ import Link from "next/link";
 const Header = () => {
   return (
     <header className="text-neutral-200 bg-neutral-800 body-font">
-      <div className="container mx-auto flex flex-wrap xl:px-20 lg:px-10 px-5 py-5 flex-col md:flex-row items-center">
+      <div className="container mx-auto flex flex-wrap xl:px-20 lg:px-10 px-5 py-5 flex-col sm:flex-row items-center">
         <Link
           href="/"
-          className="flex title-font font-medium items-center text-white mb-4 md:mb-0"
+          className="flex title-font font-medium items-center text-white mb-4 sm:mb-0"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -17,7 +17,7 @@ const Header = () => {
           </svg>
           <span className="ml-1 text-xl">sevaztian</span>
         </Link>
-        <nav className="md:ml-auto flex flex-wrap items-center text-base justify-center">
+        <nav className="sm:ml-auto flex flex-wrap items-center text-base justify-center">
           <Link href="/songs" className="mr-10 hover:text-white">
             Songs
           </Link>
