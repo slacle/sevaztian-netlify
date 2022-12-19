@@ -24,7 +24,7 @@ export default function Song({ song, artwork }) {
             className="w-full rounded h-10 opacity-50"
           >
             <source
-              src={`https://creatornode.audius.co/tracks/stream/${song.audius_id}`}
+              src={`https://audius-content-15.cultur3stake.com/tracks/stream/${song.audius_id}`}
               type="audio/mpeg"
             />
           </audio>
