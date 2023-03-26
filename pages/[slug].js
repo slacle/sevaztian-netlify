@@ -24,7 +24,7 @@ export default function Song({ song, artwork }) {
             className="w-full rounded h-10 opacity-50"
           >
             <source
-              src={`https://creatornode.audius6.prod-us-west-2.staked.cloud/tracks/stream/${song.audius_id}`}
+              src={`https://audius-content-10.figment.io/tracks/stream/${song.audius_id}`}
               type="audio/mpeg"
             />
           </audio>
