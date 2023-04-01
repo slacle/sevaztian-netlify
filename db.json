@@ -2554,7 +2554,7 @@
     "genre": "Electronic",
     "mood": ["Chill", "Cool", "Fun", "Happy", "Optimistic", "Sweet", "Tender"],
     "daw": "Reason",
-    "plugins": [],
+    "plugins": ["Radical Keys", "Redrum", "Thor", "Malström"],
     "guitar": false,
     "sample": false
   },
@@ -2579,7 +2579,7 @@
       "Unusual"
     ],
     "daw": "Reason",
-    "plugins": [],
+    "plugins": ["Kong", "Malström", "Thor"],
     "guitar": false,
     "sample": false
   },
@@ -2605,7 +2605,7 @@
       "Stirring"
     ],
     "daw": "Reason",
-    "plugins": [],
+    "plugins": ["Korg Polysix", "Redrum", "Malström", "Thor"],
     "guitar": false,
     "sample": false
   },
@@ -2631,9 +2631,17 @@
       "Worrying"
     ],
     "daw": "Reason",
-    "plugins": [],
+    "plugins": [
+      "Subtractor",
+      "Malström",
+      "Dr. Octo Rex",
+      "Kong",
+      "PX7",
+      "Radical Keys",
+      "Thor"
+    ],
     "guitar": false,
-    "sample": false
+    "sample": true
   },
   {
     "audius_id": "jVZbB",
@@ -2655,7 +2663,7 @@
       "Uneasy"
     ],
     "daw": "Reason",
-    "plugins": [],
+    "plugins": ["Korg Mono/Poly", "Thor", "Redrum", "Malström", "Subtractor"],
     "guitar": false,
     "sample": false
   },
@@ -2679,7 +2687,7 @@
       "Sensual"
     ],
     "daw": "Reason",
-    "plugins": [],
+    "plugins": ["Radical Keys", "Redrum", "Subtractor", "PX7"],
     "guitar": false,
     "sample": false
   },
@@ -2695,7 +2703,7 @@
     "genre": "Hip Hop",
     "mood": ["Curious", "Easygoing", "Interesting", "Mellow", "Sophisticated"],
     "daw": "Reason",
-    "plugins": [],
+    "plugins": ["Malström", "Thor", "Dr. Octo Rex"],
     "guitar": false,
     "sample": false
   },
@@ -2722,7 +2730,7 @@
       "Sensual"
     ],
     "daw": "Reason",
-    "plugins": [],
+    "plugins": ["NN-XT", "Thor", "Dr. Octo Rex", "Redrum"],
     "guitar": false,
     "sample": false
   },
@@ -2747,7 +2755,7 @@
       "Tender"
     ],
     "daw": "Reason",
-    "plugins": [],
+    "plugins": ["Thor", "Malström", "Kong", "Subtractor"],
     "guitar": false,
     "sample": false
   },
@@ -2774,7 +2782,7 @@
       "Stirring"
     ],
     "daw": "Reason",
-    "plugins": [],
+    "plugins": ["Thor", "Malström", "PX7", "Redrum", "Kong"],
     "guitar": false,
     "sample": false
   },
@@ -2798,7 +2806,14 @@
       "Tender"
     ],
     "daw": "Reason",
-    "plugins": [],
+    "plugins": [
+      "Kong",
+      "Redrum",
+      "Subtractor",
+      "Thor",
+      "Korg Mono/Poly",
+      "Radical Keys"
+    ],
     "guitar": false,
     "sample": false
   },
@@ -2823,7 +2838,7 @@
       "Thoughtful"
     ],
     "daw": "Reason",
-    "plugins": [],
+    "plugins": ["NN-XT", "Thor"],
     "guitar": false,
     "sample": false
   },
@@ -2849,7 +2864,7 @@
       "Sweet"
     ],
     "daw": "Reason",
-    "plugins": [],
+    "plugins": ["PX7", "Radical Keys", "Malström", "Kong", "Redrum"],
     "guitar": false,
     "sample": false
   },
@@ -2876,7 +2891,7 @@
       "Tender"
     ],
     "daw": "Reason",
-    "plugins": [],
+    "plugins": ["Malström", "Korg Polysix", "Redrum", "Thor"],
     "guitar": false,
     "sample": false
   },
@@ -2900,7 +2915,7 @@
       "Worrying"
     ],
     "daw": "Reason",
-    "plugins": [],
+    "plugins": ["Subtractor", "Kong", "Malström", "Korg Mono/Poly", "PX7"],
     "guitar": false,
     "sample": false
   },
@@ -2916,7 +2931,7 @@
     "genre": "Electronic",
     "mood": ["Confident", "Cool", "Easygoing", "Fun", "Optimistic", "Stylish"],
     "daw": "Reason",
-    "plugins": [],
+    "plugins": ["Thor", "Korg Mono/Poly", "Dr. Octo Rex"],
     "guitar": false,
     "sample": true
   },
@@ -2941,7 +2956,7 @@
       "Uneasy"
     ],
     "daw": "Reason",
-    "plugins": [],
+    "plugins": ["Thor", "Redrum"],
     "guitar": false,
     "sample": false
   },
@@ -2966,7 +2981,7 @@
       "Tender"
     ],
     "daw": "Reason",
-    "plugins": [],
+    "plugins": ["Subtractor", "Thor"],
     "guitar": false,
     "sample": false
   },
@@ -2993,7 +3008,7 @@
       "Serious"
     ],
     "daw": "Reason",
-    "plugins": [],
+    "plugins": ["NN-XT"],
     "guitar": false,
     "sample": false
   },
@@ -3003,7 +3018,7 @@
     "date": "2015-05-17",
     "slug": "week-20-of-2015",
     "title": "Week 20 of 2015",
-    "description": "This was a keys week. One track is using Radical Keys and another is using an electric piano from NN-XT. For the beat I was lazy and used Dr.OctoRex, although I did have to do some tweaking. And the bass is actually 3 bass tracks layered together.",
+    "description": "This was a keys week. One track is using Radical Keys and another is using an electric piano from NN-XT. For the beat I was lazy and used Dr. Octo Rex, although I did have to do some tweaking. And the bass is actually 3 bass tracks layered together.",
     "season": "Spring 2015",
     "location": "Bucharest, Romania",
     "genre": "Electro",
@@ -3017,7 +3032,7 @@
       "Upbeat"
     ],
     "daw": "Reason",
-    "plugins": [],
+    "plugins": ["NN-XT", "Radical Keys", "Dr. Octo Rex", "Thor", "PX7"],
     "guitar": false,
     "sample": false
   },
@@ -3027,13 +3042,13 @@
     "date": "2015-05-24",
     "slug": "week-21-of-2015",
     "title": "Week 21 of 2015",
-    "description": "Short but powerful. I'm using mostly Pulsar Combinator presets here. I'm not good at drums so this time I tried to work on that a bit more. I ended up using two Dr.OctoRex and two Kong instruments. I hope it's not too much.",
+    "description": "Short but powerful. I'm using mostly Pulsar Combinator presets here. I'm not good at drums so this time I tried to work on that a bit more. I ended up using two Dr. Octo Rex and two Kong instruments. I hope it's not too much.",
     "season": "Spring 2015",
     "location": "Bucharest, Romania",
     "genre": "Electronic",
     "mood": ["Confident", "Determined", "Fiery", "Rowdy", "Stirring", "Upbeat"],
     "daw": "Reason",
-    "plugins": [],
+    "plugins": ["Pulsar", "Thor", "Malström", "Dr. Octo Rex", "Kong"],
     "guitar": false,
     "sample": false
   },
@@ -3058,7 +3073,7 @@
       "Sweet"
     ],
     "daw": "Reason",
-    "plugins": [],
+    "plugins": ["Thor", "Kong", "Malström", "PX7"],
     "guitar": false,
     "sample": false
   },
@@ -3074,7 +3089,7 @@
     "genre": "Chillout",
     "mood": ["Chill", "Easygoing", "Mellow", "Stylish"],
     "daw": "Reason",
-    "plugins": [],
+    "plugins": ["Kong", "NN-XT", "Radical Keys", "Thor", "Korg Polysix"],
     "guitar": false,
     "sample": false
   },
@@ -3099,7 +3114,7 @@
       "Stirring"
     ],
     "daw": "Reason",
-    "plugins": [],
+    "plugins": ["Thor", "PX7", "Redrum", "Korg Mono/Poly"],
     "guitar": false,
     "sample": false
   },
@@ -3122,7 +3137,7 @@
       "Yearning"
     ],
     "daw": "Reason",
-    "plugins": [],
+    "plugins": ["Thor", "Malström", "Kong", "Redrum", "PX7", "Korg Mono/Poly"],
     "guitar": false,
     "sample": false
   },
