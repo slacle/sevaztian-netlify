@@ -69,7 +69,7 @@ export default function Song({ song, artwork }) {
               <span className="text-sm text-neutral-200">{song.daw}</span>
             </div>
             <div className="py-5 grid grid-cols-2 gap-4 border-t border-b border-neutral-700">
-              <span className="text-neutral-400">Instruments</span>
+              <span className="text-neutral-400">Virtual Instruments</span>
               <span className="text-sm text-neutral-200">
                 {song.instruments.length ? (
                   <ul className="list-disc list-inside">

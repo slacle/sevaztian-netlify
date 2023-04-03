@@ -807,7 +807,7 @@
     "genre": "Alternative",
     "mood": ["Yearning", "Easygoing", "Thoughtful"],
     "daw": "Cubase",
-    "instruments": ["Guitar Rig", "Kontakt", "Reaktor"],
+    "instruments": ["Kontakt", "Reaktor"],
     "guitar": true,
     "sample": false
   },
@@ -957,7 +957,7 @@
     "genre": "Alternative",
     "mood": ["Melancholy", "Brooding", "Focused", "Serious", "Thoughtful"],
     "daw": "Cubase",
-    "instruments": ["Guitar Rig"],
+    "instruments": [],
     "guitar": true,
     "sample": false
   },
@@ -967,7 +967,7 @@
     "date": "2012-06-25",
     "slug": "week-25-of-2012",
     "title": "Week 25 of 2012",
-    "description": "I thought there wasn't going to be a song this week since I just moved to Berlin and have been busy finding a place to live, but here is something even if a day late ;)<br /><br />Arturia <a href=\"http://www.arturia.com/evolution/en/products/minimoogv/minimoogv-original.html\">gave away</a> for free a version of Minimoog V Original for Fête de la Musique. This song is made only with the minimoog-v. I limited myself to only the C. Duncan sound bank.<br /><br />Although I really liked the synth and the sounds are awesome, the song came out sounding not so good. It really needs some mastering.",
+    "description": "I thought there wasn't going to be a song this week since I just moved to Berlin and have been busy finding a place to live, but here is something even if a day late ;)<br /><br />Arturia <a href=\"http://www.arturia.com/evolution/en/products/minimoogv/minimoogv-original.html\">gave away</a> for free a version of Minimoog V Original for Fête de la Musique. This song is made only with the Minimoog V. I limited myself to only the C. Duncan sound bank.<br /><br />Although I really liked the synth and the sounds are awesome, the song came out sounding not so good. It really needs some mastering.",
     "season": "Summer 2012",
     "location": "Berlin, Germany",
     "genre": "Electronic",
@@ -981,7 +981,7 @@
       "Worrying"
     ],
     "daw": "Cubase",
-    "instruments": ["minimoog-v"],
+    "instruments": ["Minimoog V"],
     "guitar": false,
     "sample": false
   },
@@ -991,7 +991,7 @@
     "date": "2012-06-30",
     "slug": "week-26-of-2012",
     "title": "Week 26 of 2012",
-    "description": "I used only one preset from the minimoog-V for this song. The CE_India pad from C.Engel bank. I haven't yet figured out how to do automation with the minimoog-V, so I created four tracks with different settings on the CE_India preset and faded them into each other.",
+    "description": "I used only one preset from the Minimoog V for this song. The CE_India pad from C.Engel bank. I haven't yet figured out how to do automation with the Minimoog V, so I created four tracks with different settings on the CE_India preset and faded them into each other.",
     "season": "Summer 2012",
     "location": "Berlin, Germany",
     "genre": "Ambient",
@@ -1005,7 +1005,7 @@
       "Pessimistic"
     ],
     "daw": "Cubase",
-    "instruments": ["minimoog-v"],
+    "instruments": ["Minimoog V"],
     "guitar": false,
     "sample": false
   },
@@ -1015,13 +1015,13 @@
     "date": "2012-07-06",
     "slug": "week-27-of-2012",
     "title": "Week 27 of 2012",
-    "description": "I think I will keep using mostly the minimoog-V for a while. I like the sounds better than anything else I have at the moment (synths that came included with Cubase and the free Native Instruments synths). I only used Groove Agent ONE for the beat on this one and everything else is from the minimoog-V. I wish the bass didn't sound so distorted but I don't have time to find a better bass for the song.",
+    "description": "I think I will keep using mostly the Minimoog V for a while. I like the sounds better than anything else I have at the moment (synths that came included with Cubase and the free Native Instruments synths). I only used Groove Agent ONE for the beat on this one and everything else is from the Minimoog V. I wish the bass didn't sound so distorted but I don't have time to find a better bass for the song.",
     "season": "Summer 2012",
     "location": "Berlin, Germany",
     "genre": "Industrial",
     "mood": ["Gritty", "Dark", "Defiant", "Sneaky", "Mysterious"],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "Minimoog V"],
     "guitar": false,
     "sample": false
   },
@@ -1031,13 +1031,13 @@
     "date": "2012-07-16",
     "slug": "week-28-of-2012",
     "title": "Week 28 of 2012",
-    "description": "It's been a while since I've used anything besides the minimoog-v, except Groove Agent ONE for the beats. For this song the bass that I used initially sounded cool but it didn't have enough bottom end to it. So I decided to add a second bass with the highs filtered out. I couldn't find a bass that I liked to do this in the minimoog-v and that's why I ended up using Monologue for that second bass.",
+    "description": "It's been a while since I've used anything besides the Minimoog V, except Groove Agent ONE for the beats. For this song the bass that I used initially sounded cool but it didn't have enough bottom end to it. So I decided to add a second bass with the highs filtered out. I couldn't find a bass that I liked to do this in the Minimoog V and that's why I ended up using Monologue for that second bass.",
     "season": "Summer 2012",
     "location": "Berlin, Germany",
     "genre": "Electro",
     "mood": ["Cool", "Fiery", "Fun", "Happy", "Optimistic"],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v", "Monologue"],
+    "instruments": ["Groove Agent ONE", "Minimoog V", "Monologue"],
     "guitar": false,
     "sample": false
   },
@@ -1053,7 +1053,7 @@
     "genre": "Trance",
     "mood": ["Stirring", "Defiant", "Fiery", "Focused", "Determined"],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "Minimoog V"],
     "guitar": false,
     "sample": false
   },
@@ -1078,7 +1078,7 @@
       "Serious"
     ],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v", "Reaktor"],
+    "instruments": ["Groove Agent ONE", "Minimoog V", "Reaktor"],
     "guitar": false,
     "sample": false
   },
@@ -1088,13 +1088,13 @@
     "date": "2012-08-07",
     "slug": "week-31-of-2012",
     "title": "Week 31 of 2012",
-    "description": "Not so interesting short song.<br /><br />Somehow my VST Plug-in paths got messed up. I didn't do or change anything. When I started a Cubase project it just said that the VST paths are missing. This is the message it gave for each non-cubase plug-in: The plug-in \"Example\" could not be found for Instrument Track!<br /><br />Then I added the VST paths again and after a while Cubase crashed and gave the following message:<br />--------------------------<br />VSTBridge connection lost. <br />Please load previous versions of this project to restore lost settings of bridged plug-ins. <br />Disable incompatible plug-ins if possible.<br />--------------------------<br /><br />Now minimoog-v only sees the 32 bit VST for some reason. Maybe I will try re-installing it.",
+    "description": "Not so interesting short song.<br /><br />Somehow my VST Plug-in paths got messed up. I didn't do or change anything. When I started a Cubase project it just said that the VST paths are missing. This is the message it gave for each non-cubase plug-in: The plug-in \"Example\" could not be found for Instrument Track!<br /><br />Then I added the VST paths again and after a while Cubase crashed and gave the following message:<br />--------------------------<br />VSTBridge connection lost. <br />Please load previous versions of this project to restore lost settings of bridged plug-ins. <br />Disable incompatible plug-ins if possible.<br />--------------------------<br /><br />Now Minimoog V only sees the 32 bit VST for some reason. Maybe I will try re-installing it.",
     "season": "Summer 2012",
     "location": "Berlin, Germany",
     "genre": "Electronic",
     "mood": ["Brooding", "Dark", "Moody", "Mysterious", "Serious"],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v", "Reaktor"],
+    "instruments": ["Groove Agent ONE", "Minimoog V", "Reaktor"],
     "guitar": false,
     "sample": false
   },
@@ -1110,7 +1110,7 @@
     "genre": "Drum n Bass",
     "mood": ["Easygoing", "Cool", "Mellow", "Optimistic"],
     "daw": "Cubase",
-    "instruments": ["Kontakt", "minimoog-v"],
+    "instruments": ["Kontakt", "Minimoog V"],
     "guitar": false,
     "sample": false
   },
@@ -1120,13 +1120,13 @@
     "date": "2012-08-20",
     "slug": "week-33-of-2012",
     "title": "Week 33 of 2012",
-    "description": "Two arpeggiators and a bass from minimoog-V all playing the same notes. A simple but interesting beat with Groove Agent ONE. And three effects from minimoog-V.",
+    "description": "Two arpeggiators and a bass from Minimoog V all playing the same notes. A simple but interesting beat with Groove Agent ONE. And three effects from Minimoog V.",
     "season": "Summer 2012",
     "location": "Berlin, Germany",
     "genre": "Electronic",
     "mood": ["Calm", "Curious", "Interesting"],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "Minimoog V"],
     "guitar": false,
     "sample": false
   },
@@ -1136,13 +1136,13 @@
     "date": "2012-08-27",
     "slug": "week-34-of-2012",
     "title": "Week 34 of 2012",
-    "description": "I was bored with this song and that's why I made it as short as possible and added the automated filter on the main output to make it more interesting. It actually has the most variety of plug-ins used in a while, I had been using mostly minimoog-V lately.",
+    "description": "I was bored with this song and that's why I made it as short as possible and added the automated filter on the main output to make it more interesting. It actually has the most variety of plug-ins used in a while, I had been using mostly Minimoog V lately.",
     "season": "Summer 2012",
     "location": "Berlin, Germany",
     "genre": "Electronic",
     "mood": ["Sensual", "Stylish", "Confident"],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "Kontakt", "minimoog-v", "Reaktor"],
+    "instruments": ["Groove Agent ONE", "Kontakt", "Minimoog V", "Reaktor"],
     "guitar": false,
     "sample": true
   },
@@ -1256,13 +1256,13 @@
     "date": "2012-10-08",
     "slug": "week-40-of-2012",
     "title": "Week 40 of 2012",
-    "description": "This month I won't be participating in the One Synth Challenge so I'm free to use whatever synth I want, so I naturally went back to using the minimoog-v as first choice to start with :) <br /><br />I actually started another song first but when I opened it back up the next day the notes were messed up and it sounded like crap and couldn't get it to sound good anymore. I used Mystic in that one and is what caused the problem. It remembered me why Prologue was the main synth I was using from Cubase as the others (Mystic and Spector) tend to have random bugs/problems.",
+    "description": "This month I won't be participating in the One Synth Challenge so I'm free to use whatever synth I want, so I naturally went back to using the Minimoog V as first choice to start with :) <br /><br />I actually started another song first but when I opened it back up the next day the notes were messed up and it sounded like crap and couldn't get it to sound good anymore. I used Mystic in that one and is what caused the problem. It remembered me why Prologue was the main synth I was using from Cubase as the others (Mystic and Spector) tend to have random bugs/problems.",
     "season": "Fall 2012",
     "location": "Berlin, Germany",
     "genre": "Electronic",
     "mood": ["Cautious", "Curious", "Focused", "Gritty", "Sneaky", "Strange"],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v", "Reaktor"],
+    "instruments": ["Groove Agent ONE", "Minimoog V", "Reaktor"],
     "guitar": false,
     "sample": false
   },
@@ -1272,13 +1272,13 @@
     "date": "2012-10-14",
     "slug": "week-41-of-2012",
     "title": "Week 41 of 2012",
-    "description": "Again mostly minimoog-v. Only Groove Agent ONE for the beat. I didn't use Maximizer on the main out channel as I normally do. I will try to avoid using it or any other compression whenever possible. This of course means lower volume but I think the higher dynamic range (DR 10 for this song) for better audio quality is better. The loudness war is not a good thing.",
+    "description": "Again mostly Minimoog V. Only Groove Agent ONE for the beat. I didn't use Maximizer on the main out channel as I normally do. I will try to avoid using it or any other compression whenever possible. This of course means lower volume but I think the higher dynamic range (DR 10 for this song) for better audio quality is better. The loudness war is not a good thing.",
     "season": "Fall 2012",
     "location": "Berlin, Germany",
     "genre": "Electronic",
     "mood": ["Anxious", "Defiant", "Focused", "Moody", "Uneasy", "Worrying"],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "Minimoog V"],
     "guitar": false,
     "sample": false
   },
@@ -1302,7 +1302,7 @@
       "Tender"
     ],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "Minimoog V"],
     "guitar": false,
     "sample": false
   },
@@ -1312,13 +1312,13 @@
     "date": "2012-10-29",
     "slug": "week-43-of-2012",
     "title": "Week 43 of 2012",
-    "description": "Rather simple song again but more interesting than last one.<br /><br />I used the most variety of instruments on this one since quite a while. Had been mostly using minimoog-v exclusively (except for Groove Agent ONE for the beats). This one also features Reaktor's CARBON2, Mikro Prism, and SpaceDrone. <br /><br />No Maximizer or any compression on this one.",
+    "description": "Rather simple song again but more interesting than last one.<br /><br />I used the most variety of instruments on this one since quite a while. Had been mostly using Minimoog V exclusively (except for Groove Agent ONE for the beats). This one also features Reaktor's CARBON2, Mikro Prism, and SpaceDrone. <br /><br />No Maximizer or any compression on this one.",
     "season": "Fall 2012",
     "location": "Madrid, Spain",
     "genre": "Experimental",
     "mood": ["Curious", "Interesting", "Mysterious", "Mystical", "Unusual"],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v", "Reaktor"],
+    "instruments": ["Groove Agent ONE", "Minimoog V", "Reaktor"],
     "guitar": false,
     "sample": false
   },
@@ -1343,7 +1343,7 @@
       "Worrying"
     ],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "Minimoog V"],
     "guitar": true,
     "sample": false
   },
@@ -1353,7 +1353,7 @@
     "date": "2012-12-04",
     "slug": "week-46-of-2012",
     "title": "Week 46 of 2012",
-    "description": "This song came out quite easily and I like how it turned out. I could spend more time on it and make it even better but time to move on to next week's song.<br /><br />This one is using only minimoog-v (5 tracks) and of course Groove Agent ONE for the beat.",
+    "description": "This song came out quite easily and I like how it turned out. I could spend more time on it and make it even better but time to move on to next week's song.<br /><br />This one is using only Minimoog V (5 tracks) and of course Groove Agent ONE for the beat.",
     "season": "Fall 2012",
     "location": "Granada, Spain",
     "genre": "Electronic",
@@ -1368,7 +1368,7 @@
       "Playful"
     ],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "Minimoog V"],
     "guitar": false,
     "sample": false
   },
@@ -1392,7 +1392,7 @@
       "Worrying"
     ],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v", "Reaktor"],
+    "instruments": ["Groove Agent ONE", "Minimoog V", "Reaktor"],
     "guitar": false,
     "sample": false
   },
@@ -1419,7 +1419,7 @@
       "Worrying"
     ],
     "daw": "Cubase",
-    "instruments": ["minimoog-v", "Reaktor"],
+    "instruments": ["Minimoog V", "Reaktor"],
     "guitar": false,
     "sample": true
   },
@@ -1447,7 +1447,7 @@
       "Worrying"
     ],
     "daw": "Cubase",
-    "instruments": ["minimoog-v"],
+    "instruments": ["Minimoog V"],
     "guitar": false,
     "sample": false
   },
@@ -1480,7 +1480,7 @@
     "date": "2012-12-24",
     "slug": "week-51-of-2012",
     "title": "Week 51 of 2012",
-    "description": "Very simple song and done pretty quickly again. Just 4 tracks with a pad, lead, and bass (minimoog-v) and drums (Groove Agent ONE).",
+    "description": "Very simple song and done pretty quickly again. Just 4 tracks with a pad, lead, and bass (Minimoog V) and drums (Groove Agent ONE).",
     "season": "Fall 2012",
     "location": "Granada, Spain",
     "genre": "Electronic",
@@ -1496,7 +1496,7 @@
       "Upbeat"
     ],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "Minimoog V"],
     "guitar": false,
     "sample": false
   },
@@ -1506,13 +1506,13 @@
     "date": "2012-12-29",
     "slug": "week-52-of-2012",
     "title": "Week 52 of 2012",
-    "description": "Like all songs lately, this one is only using minimoog-v for the sounds (5 tracks) and just Groove Agent ONE for the beat. It's been a while also since I've used Maximizer. So the songs since a couple of months already have no compression at all.",
+    "description": "Like all songs lately, this one is only using Minimoog V for the sounds (5 tracks) and just Groove Agent ONE for the beat. It's been a while also since I've used Maximizer. So the songs since a couple of months already have no compression at all.",
     "season": "Fall 2012",
     "location": "Granada, Spain",
     "genre": "Electronic",
     "mood": ["Curious", "Defiant", "Determined", "Moody", "Unusual"],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "Minimoog V"],
     "guitar": false,
     "sample": false
   },
@@ -1536,7 +1536,7 @@
       "Uneasy"
     ],
     "daw": "Cubase",
-    "instruments": ["minimoog-v", "Reaktor"],
+    "instruments": ["Minimoog V", "Reaktor"],
     "guitar": true,
     "sample": true
   },
@@ -1559,7 +1559,7 @@
       "Yearning"
     ],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "Kontakt", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "Kontakt", "Minimoog V"],
     "guitar": true,
     "sample": false
   },
@@ -1575,7 +1575,7 @@
     "genre": "Electronic",
     "mood": ["Calm", "Chill", "Confident", "Cool", "Yearning"],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v", "Reaktor"],
+    "instruments": ["Groove Agent ONE", "Minimoog V", "Reaktor"],
     "guitar": false,
     "sample": false
   },
@@ -1585,7 +1585,7 @@
     "date": "2013-01-25",
     "slug": "week-4-of-2013",
     "title": "Week 4 of 2013",
-    "description": "I tried using Arpache5 and Chorder from Cubase with minimoog-v as I have done before with HALionOne, but it just didn't work out as good. So I ended up just using minimoog-v by itself as usual. And then for the lead part I did use Arpache5 but with HALionOne.",
+    "description": "I tried using Arpache5 and Chorder from Cubase with Minimoog V as I have done before with HALionOne, but it just didn't work out as good. So I ended up just using Minimoog V by itself as usual. And then for the lead part I did use Arpache5 but with HALionOne.",
     "season": "Winter 2013",
     "location": "Granada, Spain",
     "genre": "Experimental",
@@ -1602,7 +1602,7 @@
       "Worrying"
     ],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "HALionOne", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "HALionOne", "Minimoog V"],
     "guitar": false,
     "sample": false
   },
@@ -1612,7 +1612,7 @@
     "date": "2013-02-01",
     "slug": "week-5-of-2013",
     "title": "Week 5 of 2013",
-    "description": "All minimoog-v again. I like its sounds more than any other synth I have at the moment. The song was done quick and came out with a nice melody.",
+    "description": "All Minimoog V again. I like its sounds more than any other synth I have at the moment. The song was done quick and came out with a nice melody.",
     "season": "Winter 2013",
     "location": "Granada, Spain",
     "genre": "Electronic",
@@ -1628,7 +1628,7 @@
       "Yearning"
     ],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "Minimoog V"],
     "guitar": false,
     "sample": false
   },
@@ -1638,7 +1638,7 @@
     "date": "2013-02-10",
     "slug": "week-6-of-2013",
     "title": "Week 6 of 2013",
-    "description": "This one was a bit more complex than usual. I used more tracks than usual and did more changes than usual. Because of that, the song came out longer than usual too. I was having a hard time arranging the parts so that the changes would end up good. That's usually the hardest thing I find when creating a song. Of the 9 tracks in this song, 2 of them are Groove Agent ONE for two different beats and the rest is all minimoog-v again.",
+    "description": "This one was a bit more complex than usual. I used more tracks than usual and did more changes than usual. Because of that, the song came out longer than usual too. I was having a hard time arranging the parts so that the changes would end up good. That's usually the hardest thing I find when creating a song. Of the 9 tracks in this song, 2 of them are Groove Agent ONE for two different beats and the rest is all Minimoog V again.",
     "season": "Winter 2013",
     "location": "Granada, Spain",
     "genre": "Electro",
@@ -1653,7 +1653,7 @@
       "Upbeat"
     ],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "Minimoog V"],
     "guitar": false,
     "sample": false
   },
@@ -1678,7 +1678,7 @@
       "Weird"
     ],
     "daw": "Cubase",
-    "instruments": ["minimoog-v", "Reaktor"],
+    "instruments": ["Minimoog V", "Reaktor"],
     "guitar": false,
     "sample": false
   },
@@ -1729,7 +1729,7 @@
       "Tender"
     ],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "Minimoog V"],
     "guitar": false,
     "sample": true
   },
@@ -1754,7 +1754,7 @@
       "Stirring"
     ],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v", "Monologue"],
+    "instruments": ["Groove Agent ONE", "Minimoog V", "Monologue"],
     "guitar": false,
     "sample": false
   },
@@ -1764,7 +1764,7 @@
     "date": "2013-03-15",
     "slug": "week-11-of-2013",
     "title": "Week 11 of 2013",
-    "description": "This started as a very simple thing but I kept adding more and more until it became interesting.<br />The bells and choir are from HALionOne which I hadn't used in a long time, but this song would not have been possible with minimoog-v only as has been the usual lately.<br /><br />As of today I'm a soundcloud pro user. Had to upgrade since I ran out of minutes. Two more hours should last me another two more years.",
+    "description": "This started as a very simple thing but I kept adding more and more until it became interesting.<br />The bells and choir are from HALionOne which I hadn't used in a long time, but this song would not have been possible with Minimoog V only as has been the usual lately.<br /><br />As of today I'm a soundcloud pro user. Had to upgrade since I ran out of minutes. Two more hours should last me another two more years.",
     "season": "Winter 2013",
     "location": "Granada, Spain",
     "genre": "Soundtrack",
@@ -1779,7 +1779,7 @@
       "Tender"
     ],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "HALionOne", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "HALionOne", "Minimoog V"],
     "guitar": false,
     "sample": false
   },
@@ -1805,7 +1805,7 @@
       "Worrying"
     ],
     "daw": "Cubase",
-    "instruments": ["HALionOne", "Kontakt", "minimoog-v", "Monologue"],
+    "instruments": ["HALionOne", "Kontakt", "Minimoog V", "Monologue"],
     "guitar": false,
     "sample": true
   },
@@ -1828,7 +1828,7 @@
       "Unusual"
     ],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "Kontakt", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "Kontakt", "Minimoog V"],
     "guitar": false,
     "sample": false
   },
@@ -1855,7 +1855,7 @@
       "Worrying"
     ],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v", "Reaktor"],
+    "instruments": ["Groove Agent ONE", "Minimoog V", "Reaktor"],
     "guitar": false,
     "sample": false
   },
@@ -1878,7 +1878,7 @@
       "Sensual"
     ],
     "daw": "Cubase",
-    "instruments": ["HALionOne", "minimoog-v", "Monologue"],
+    "instruments": ["HALionOne", "Minimoog V", "Monologue"],
     "guitar": false,
     "sample": true
   },
@@ -1902,7 +1902,7 @@
       "Stylish"
     ],
     "daw": "Cubase",
-    "instruments": ["minimoog-v"],
+    "instruments": ["Minimoog V"],
     "guitar": false,
     "sample": true
   },
@@ -1912,7 +1912,7 @@
     "date": "2013-05-26",
     "slug": "week-21-of-2013",
     "title": "Week 21 of 2013",
-    "description": "was thinking of adding more to the song but sometimes minimalistic like this is better. just using three tracks playing basically the same thing but with different sounds out of the minimoog-v.",
+    "description": "was thinking of adding more to the song but sometimes minimalistic like this is better. just using three tracks playing basically the same thing but with different sounds out of the Minimoog V.",
     "season": "Spring 2013",
     "location": "Granada, Spain",
     "genre": "Ambient",
@@ -1929,7 +1929,7 @@
       "Yearning"
     ],
     "daw": "Cubase",
-    "instruments": ["minimoog-v"],
+    "instruments": ["Minimoog V"],
     "guitar": false,
     "sample": false
   },
@@ -1956,7 +1956,7 @@
       "Yearning"
     ],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "Minimoog V"],
     "guitar": false,
     "sample": false
   },
@@ -1980,7 +1980,7 @@
       "Thoughtful"
     ],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "Minimoog V"],
     "guitar": false,
     "sample": false
   },
@@ -1990,7 +1990,7 @@
     "date": "2013-06-14",
     "slug": "week-24-of-2013",
     "title": "Week 24 of 2013",
-    "description": "Dark mood kind of song. Used something other than minimoog-v this time. Two tracks are from Reaktor.",
+    "description": "Dark mood kind of song. Used something other than Minimoog V this time. Two tracks are from Reaktor.",
     "season": "Spring 2013",
     "location": "Granada, Spain",
     "genre": "Electronic",
@@ -2005,7 +2005,7 @@
       "Worrying"
     ],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v", "Reaktor"],
+    "instruments": ["Groove Agent ONE", "Minimoog V", "Reaktor"],
     "guitar": false,
     "sample": false
   },
@@ -2015,7 +2015,7 @@
     "date": "2013-06-25",
     "slug": "week-25-of-2013",
     "title": "Week 25 of 2013",
-    "description": "This is the most work I have done on a song lately. Still was only a couple of hours altogether. The hardest thing is always arranging the different parts of the song and the transitions between them. 10 tracks of which 2 are beats, one programmed and one sample. Everything else is minimoog-v as usual.",
+    "description": "This is the most work I have done on a song lately. Still was only a couple of hours altogether. The hardest thing is always arranging the different parts of the song and the transitions between them. 10 tracks of which 2 are beats, one programmed and one sample. Everything else is Minimoog V as usual.",
     "season": "Summer 2013",
     "location": "Granada, Spain",
     "genre": "Electronic",
@@ -2032,7 +2032,7 @@
       "Upbeat"
     ],
     "daw": "Cubase",
-    "instruments": ["minimoog-v"],
+    "instruments": ["Minimoog V"],
     "guitar": false,
     "sample": true
   },
@@ -2058,7 +2058,7 @@
       "Yearning"
     ],
     "daw": "Cubase",
-    "instruments": ["HALionOne", "minimoog-v", "Reaktor"],
+    "instruments": ["HALionOne", "Minimoog V", "Reaktor"],
     "guitar": false,
     "sample": false
   },
@@ -2074,7 +2074,7 @@
     "genre": "Electronic",
     "mood": ["Excited", "Focused", "Gritty", "Interesting", "Upbeat"],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "Minimoog V"],
     "guitar": false,
     "sample": true
   },
@@ -2100,7 +2100,7 @@
       "Weird"
     ],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "Minimoog V"],
     "guitar": false,
     "sample": true
   },
@@ -2110,7 +2110,7 @@
     "date": "2013-07-20",
     "slug": "week-29-of-2013",
     "title": "Week 29 of 2013",
-    "description": "After a long time, I used again the Arpache 5 and Chorder combination. That makes the main riff of the song. Then I used minimoog-v for the bass and lead, and a few samples for the beat.",
+    "description": "After a long time, I used again the Arpache 5 and Chorder combination. That makes the main riff of the song. Then I used Minimoog V for the bass and lead, and a few samples for the beat.",
     "season": "Summer 2013",
     "location": "Granada, Spain",
     "genre": "Electronic",
@@ -2127,7 +2127,7 @@
       "Stylish"
     ],
     "daw": "Cubase",
-    "instruments": ["HALionOne", "minimoog-v"],
+    "instruments": ["HALionOne", "Minimoog V"],
     "guitar": false,
     "sample": true
   },
@@ -2143,7 +2143,7 @@
     "genre": "Industrial",
     "mood": ["Calm", "Chill", "Easygoing", "Mellow", "Thoughtful", "Yearning"],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "Minimoog V"],
     "guitar": false,
     "sample": false
   },
@@ -2170,7 +2170,7 @@
       "Worrying"
     ],
     "daw": "Cubase",
-    "instruments": ["minimoog-v", "Reaktor"],
+    "instruments": ["Minimoog V", "Reaktor"],
     "guitar": false,
     "sample": true
   },
@@ -2197,7 +2197,7 @@
       "Stirring"
     ],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v", "Reaktor"],
+    "instruments": ["Groove Agent ONE", "Minimoog V", "Reaktor"],
     "guitar": false,
     "sample": true
   },
@@ -2207,7 +2207,7 @@
     "date": "2014-03-16",
     "slug": "week-11-of-2014",
     "title": "Week 11 of 2014",
-    "description": "Clean and simple, tried to make it sound better instead of adding more to it and making it feel over produced. With the fx from minimoog-v in the background I thought was enough so as to not take attention away from the main melody.",
+    "description": "Clean and simple, tried to make it sound better instead of adding more to it and making it feel over produced. With the fx from Minimoog V in the background I thought was enough so as to not take attention away from the main melody.",
     "season": "Winter 2014",
     "location": "Bucharest, Romania",
     "genre": "New Age",
@@ -2224,7 +2224,7 @@
       "Thoughtful"
     ],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v", "Prologue"],
+    "instruments": ["Groove Agent ONE", "Minimoog V", "Prologue"],
     "guitar": false,
     "sample": false
   },
@@ -2251,7 +2251,7 @@
       "Weird"
     ],
     "daw": "Cubase",
-    "instruments": ["minimoog-v", "Monologue", "Prologue"],
+    "instruments": ["Minimoog V", "Monologue", "Prologue"],
     "guitar": false,
     "sample": true
   },
@@ -2276,7 +2276,7 @@
       "Tender"
     ],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v", "Monologue", "Prologue"],
+    "instruments": ["Groove Agent ONE", "Minimoog V", "Monologue", "Prologue"],
     "guitar": false,
     "sample": false
   },
@@ -2286,7 +2286,7 @@
     "date": "2014-04-06",
     "slug": "week-14-of-2014",
     "title": "Week 14 of 2014",
-    "description": "I kept it quite simple but I think it's a pretty cool song. I thought of adding more to it but then decided it was not necessary. 3 layers playing the same thing all using minimoog-v make it sound full.",
+    "description": "I kept it quite simple but I think it's a pretty cool song. I thought of adding more to it but then decided it was not necessary. 3 layers playing the same thing all using Minimoog V make it sound full.",
     "season": "Spring 2014",
     "location": "Bucharest, Romania",
     "genre": "Electronic",
@@ -2301,7 +2301,7 @@
       "Yearning"
     ],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "Minimoog V"],
     "guitar": false,
     "sample": false
   },
@@ -2327,7 +2327,7 @@
       "Thoughtful"
     ],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "Minimoog V"],
     "guitar": false,
     "sample": true
   },
@@ -2354,7 +2354,7 @@
       "Worrying"
     ],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v", "Reaktor"],
+    "instruments": ["Groove Agent ONE", "Minimoog V", "Reaktor"],
     "guitar": false,
     "sample": true
   },
@@ -2379,7 +2379,7 @@
       "Worrying"
     ],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "Kontakt", "minimoog-v", "Prologue"],
+    "instruments": ["Groove Agent ONE", "Kontakt", "Minimoog V", "Prologue"],
     "guitar": false,
     "sample": true
   },
@@ -2389,7 +2389,7 @@
     "date": "2014-06-08",
     "slug": "week-23-of-2014",
     "title": "Week 23 of 2014",
-    "description": "I had most of the song done using minimoog-v but then there was still something missing and couldn't find any sound in minimoog-v to add the last touch. That's when I decided to try SampleTank and with the piano sound it ended up becoming the main part of the song.",
+    "description": "I had most of the song done using Minimoog V but then there was still something missing and couldn't find any sound in Minimoog V to add the last touch. That's when I decided to try SampleTank and with the piano sound it ended up becoming the main part of the song.",
     "season": "Spring 2014",
     "location": "Bucharest, Romania",
     "genre": "Classical",
@@ -2406,7 +2406,7 @@
       "Yearning"
     ],
     "daw": "Cubase",
-    "instruments": ["minimoog-v", "SampleTank"],
+    "instruments": ["Minimoog V", "SampleTank"],
     "guitar": false,
     "sample": false
   },
@@ -2472,7 +2472,7 @@
       "Unusual"
     ],
     "daw": "Cubase",
-    "instruments": ["Kontakt", "minimoog-v", "Reaktor"],
+    "instruments": ["Kontakt", "Minimoog V", "Reaktor"],
     "guitar": false,
     "sample": false
   },
@@ -2488,7 +2488,7 @@
     "genre": "Electronic",
     "mood": ["Chill", "Easygoing", "Inspirational", "Optimistic", "Sweet"],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v", "Prologue"],
+    "instruments": ["Groove Agent ONE", "Minimoog V", "Prologue"],
     "guitar": false,
     "sample": false
   },
@@ -2498,7 +2498,7 @@
     "date": "2014-07-20",
     "slug": "week-29-of-2014",
     "title": "Week 29 of 2014",
-    "description": "Since a long time I haven't used Arpache 5 and Chorder from the Cubade midi inserts, so I decided it was time for a song with them again. But I think it's the first time I use them with minimoog-v.",
+    "description": "Since a long time I haven't used Arpache 5 and Chorder from the Cubade midi inserts, so I decided it was time for a song with them again. But I think it's the first time I use them with Minimoog V.",
     "season": "Summer 2014",
     "location": "Bucharest, Romania",
     "genre": "Electronic",
@@ -2514,7 +2514,7 @@
       "Upbeat"
     ],
     "daw": "Cubase",
-    "instruments": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "Minimoog V"],
     "guitar": false,
     "sample": false
   },
