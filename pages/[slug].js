@@ -68,32 +68,32 @@ export default function Song({ song, artwork }) {
               <span className="text-neutral-400">Daw</span>
               <span className="text-sm text-neutral-200">{song.daw}</span>
             </div>
-            <div className="py-5 grid grid-cols-2 gap-4 border-t border-neutral-700">
-              <span className="text-neutral-400">Guitar</span>
-              <span className="text-sm text-neutral-200">
-                {song.guitar ? "Used" : "Not used"}
-              </span>
-            </div>
-            <div className="py-5 grid grid-cols-2 gap-4 border-t border-neutral-700">
-              <span className="text-neutral-400">Sample</span>
-              <span className="text-sm text-neutral-200">
-                {song.sample ? "Used" : "None used"}
-              </span>
-            </div>
             <div className="py-5 grid grid-cols-2 gap-4 border-t border-b border-neutral-700">
-              <span className="text-neutral-400">Plugins</span>
+              <span className="text-neutral-400">Instruments</span>
               <span className="text-sm text-neutral-200">
-                {song.plugins.length ? (
+                {song.instruments.length ? (
                   <ul className="list-disc list-inside">
-                    {song.plugins.map((plugin, i) => (
+                    {song.instruments.map((instrument, i) => (
                       <li key={i} className="mb-2">
-                        {plugin}
+                        {instrument}
                       </li>
                     ))}
                   </ul>
                 ) : (
                   "None used"
                 )}
+              </span>
+            </div>
+            <div className="py-5 grid grid-cols-2 gap-4 border-t border-neutral-700">
+              <span className="text-neutral-400">Samples</span>
+              <span className="text-sm text-neutral-200">
+                {song.sample ? "Used" : "None used"}
+              </span>
+            </div>
+            <div className="py-5 grid grid-cols-2 gap-4 border-t border-neutral-700">
+              <span className="text-neutral-400">Guitar</span>
+              <span className="text-sm text-neutral-200">
+                {song.guitar ? "Used" : "Not used"}
               </span>
             </div>
           </div>

@@ -11,7 +11,7 @@
     "genre": "Alternative",
     "mood": ["Empowering"],
     "daw": "Cubase",
-    "plugins": [],
+    "instruments": [],
     "guitar": true,
     "sample": false
   },
@@ -27,7 +27,7 @@
     "genre": "Industrial",
     "mood": ["Defiant", "Dark"],
     "daw": "Cubase",
-    "plugins": [],
+    "instruments": [],
     "guitar": true,
     "sample": false
   },
@@ -43,7 +43,7 @@
     "genre": "Electronic",
     "mood": ["Gritty"],
     "daw": "Cubase",
-    "plugins": [],
+    "instruments": [],
     "guitar": true,
     "sample": false
   },
@@ -59,7 +59,7 @@
     "genre": "Electronic",
     "mood": ["Brooding", "Dark"],
     "daw": "Cubase",
-    "plugins": [],
+    "instruments": [],
     "guitar": false,
     "sample": false
   },
@@ -75,7 +75,7 @@
     "genre": "Ambient",
     "mood": ["Sentimental", "Serious", "Dark"],
     "daw": "Cubase",
-    "plugins": [],
+    "instruments": [],
     "guitar": true,
     "sample": false
   },
@@ -91,7 +91,7 @@
     "genre": "Alternative",
     "mood": ["Tender", "Yearning", "Brooding"],
     "daw": "Cubase",
-    "plugins": [],
+    "instruments": [],
     "guitar": true,
     "sample": false
   },
@@ -107,7 +107,7 @@
     "genre": "Ambient",
     "mood": ["Melancholy", "Tender", "Sentimental", "Yearning"],
     "daw": "Cubase",
-    "plugins": [],
+    "instruments": [],
     "guitar": false,
     "sample": false
   },
@@ -123,7 +123,7 @@
     "genre": "Alternative",
     "mood": ["Yearning", "Melancholy", "Brooding", "Serious"],
     "daw": "Cubase",
-    "plugins": [],
+    "instruments": [],
     "guitar": true,
     "sample": false
   },
@@ -139,7 +139,7 @@
     "genre": "Electronic",
     "mood": ["Easygoing", "Optimistic", "Cool"],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "Prologue"],
+    "instruments": ["Groove Agent ONE", "Prologue"],
     "guitar": false,
     "sample": false
   },
@@ -155,7 +155,7 @@
     "genre": "Experimental",
     "mood": ["Weird", "Strange", "Unusual"],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "Mystic"],
+    "instruments": ["Groove Agent ONE", "Mystic"],
     "guitar": false,
     "sample": false
   },
@@ -171,7 +171,7 @@
     "genre": "Dub",
     "mood": ["Easygoing", "Cool", "Happy", "Fun"],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "HALionOne", "Mystic", "Prologue"],
+    "instruments": ["Groove Agent ONE", "HALionOne", "Mystic", "Prologue"],
     "guitar": true,
     "sample": false
   },
@@ -187,7 +187,7 @@
     "genre": "Rock",
     "mood": ["Inspirational", "Romantic"],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "HALionOne", "Mystic", "Spector"],
+    "instruments": ["Groove Agent ONE", "HALionOne", "Mystic", "Spector"],
     "guitar": true,
     "sample": false
   },
@@ -203,7 +203,7 @@
     "genre": "Electronic",
     "mood": ["Sneaky", "Cautious", "Peaceful"],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "Mystic", "Otomata", "Prologue"],
+    "instruments": ["Groove Agent ONE", "Mystic", "Otomata", "Prologue"],
     "guitar": false,
     "sample": false
   },
@@ -219,7 +219,7 @@
     "genre": "Soundtrack",
     "mood": ["Sophisticated", "Curious", "Playful"],
     "daw": "Cubase",
-    "plugins": ["Embracer", "Groove Agent ONE", "HALionOne"],
+    "instruments": ["Embracer", "Groove Agent ONE", "HALionOne"],
     "guitar": false,
     "sample": false
   },
@@ -235,7 +235,7 @@
     "genre": "Experimental",
     "mood": ["Mystical", "Tribal"],
     "daw": "Cubase",
-    "plugins": ["HALionOne", "Mystic", "Prologue"],
+    "instruments": ["HALionOne", "Mystic", "Prologue"],
     "guitar": true,
     "sample": false
   },
@@ -251,7 +251,7 @@
     "genre": "Electronic",
     "mood": ["Gritty", "Mellow"],
     "daw": "Cubase",
-    "plugins": ["HALionOne", "Spector"],
+    "instruments": ["HALionOne", "Spector"],
     "guitar": true,
     "sample": true
   },
@@ -267,7 +267,7 @@
     "genre": "Electronic",
     "mood": ["Excited", "Upbeat", "Fun"],
     "daw": "Cubase",
-    "plugins": ["HALionOne", "Prologue"],
+    "instruments": ["HALionOne", "Prologue"],
     "guitar": false,
     "sample": false
   },
@@ -283,7 +283,7 @@
     "genre": "Experimental",
     "mood": ["Childish", "Curious", "Unusual"],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "HALionOne", "Mystic", "Prologue"],
+    "instruments": ["Groove Agent ONE", "HALionOne", "Mystic", "Prologue"],
     "guitar": false,
     "sample": false
   },
@@ -299,7 +299,7 @@
     "genre": "Latin",
     "mood": ["Sensual", "Cool", "Stylish"],
     "daw": "Cubase",
-    "plugins": ["HALionOne"],
+    "instruments": ["HALionOne"],
     "guitar": true,
     "sample": true
   },
@@ -315,7 +315,7 @@
     "genre": "Electronic",
     "mood": ["Gritty"],
     "daw": "Cubase",
-    "plugins": [
+    "instruments": [
       "Beat Designer",
       "Embracer",
       "Groove Agent ONE",
@@ -338,7 +338,7 @@
     "genre": "Electronic",
     "mood": ["Tender", "Chill", "Calm", "Sweet"],
     "daw": "Cubase",
-    "plugins": [
+    "instruments": [
       "Groove Agent ONE",
       "HALionOne",
       "Mystic",
@@ -360,7 +360,7 @@
     "genre": "Electro",
     "mood": ["Fiery", "Fun", "Cool", "Stylish"],
     "daw": "Cubase",
-    "plugins": ["HALionOne"],
+    "instruments": ["HALionOne"],
     "guitar": false,
     "sample": true
   },
@@ -376,7 +376,7 @@
     "genre": "Lo-Fi",
     "mood": ["Easygoing", "Chill", "Cool"],
     "daw": "Cubase",
-    "plugins": ["HALionOne"],
+    "instruments": ["HALionOne"],
     "guitar": true,
     "sample": false
   },
@@ -399,7 +399,7 @@
       "Inspirational"
     ],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "HALionOne", "Monologue", "Prologue"],
+    "instruments": ["Groove Agent ONE", "HALionOne", "Monologue", "Prologue"],
     "guitar": true,
     "sample": false
   },
@@ -415,7 +415,7 @@
     "genre": "Rock",
     "mood": ["Stirring", "Gritty"],
     "daw": "Cubase",
-    "plugins": ["HALionOne", "Prologue", "Spector"],
+    "instruments": ["HALionOne", "Prologue", "Spector"],
     "guitar": true,
     "sample": true
   },
@@ -431,7 +431,7 @@
     "genre": "Electronic",
     "mood": ["Playful", "Optimistic"],
     "daw": "Cubase",
-    "plugins": ["HALionOne", "Mystic", "Prologue"],
+    "instruments": ["HALionOne", "Mystic", "Prologue"],
     "guitar": false,
     "sample": false
   },
@@ -447,7 +447,7 @@
     "genre": "Experimental",
     "mood": ["Serious", "Soft"],
     "daw": "Cubase",
-    "plugins": ["Mystic", "Prologue"],
+    "instruments": ["Mystic", "Prologue"],
     "guitar": true,
     "sample": false
   },
@@ -463,7 +463,7 @@
     "genre": "Production",
     "mood": ["Curious", "Weird"],
     "daw": "Cubase",
-    "plugins": ["HALionOne"],
+    "instruments": ["HALionOne"],
     "guitar": false,
     "sample": false
   },
@@ -479,7 +479,7 @@
     "genre": "Experimental",
     "mood": ["Unusual"],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE"],
+    "instruments": ["Groove Agent ONE"],
     "guitar": false,
     "sample": true
   },
@@ -495,7 +495,7 @@
     "genre": "Electronic",
     "mood": ["Defiant", "Rowdy", "Stirring"],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "Monologue", "Prologue"],
+    "instruments": ["Groove Agent ONE", "Monologue", "Prologue"],
     "guitar": false,
     "sample": false
   },
@@ -511,7 +511,7 @@
     "genre": "Industrial",
     "mood": ["Aggressive", "Angry", "Hard"],
     "daw": "Cubase",
-    "plugins": ["HALionOne", "Prologue", "Spector"],
+    "instruments": ["HALionOne", "Prologue", "Spector"],
     "guitar": true,
     "sample": true
   },
@@ -527,7 +527,7 @@
     "genre": "Electronic",
     "mood": ["Empowering", "Inspirational", "Optimistic"],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "Prologue"],
+    "instruments": ["Groove Agent ONE", "Prologue"],
     "guitar": false,
     "sample": false
   },
@@ -543,7 +543,7 @@
     "genre": "Electronic",
     "mood": ["Stirring", "Gritty"],
     "daw": "Cubase",
-    "plugins": ["HALionOne", "Monologue", "Prologue"],
+    "instruments": ["HALionOne", "Monologue", "Prologue"],
     "guitar": false,
     "sample": false
   },
@@ -567,7 +567,7 @@
       "Sad"
     ],
     "daw": "Cubase",
-    "plugins": ["Mystic", "Prologue", "Spector"],
+    "instruments": ["Mystic", "Prologue", "Spector"],
     "guitar": false,
     "sample": true
   },
@@ -583,7 +583,7 @@
     "genre": "Alternative",
     "mood": ["Yearning", "Inspirational", "Optimistic"],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "Prologue"],
+    "instruments": ["Groove Agent ONE", "Prologue"],
     "guitar": true,
     "sample": false
   },
@@ -599,7 +599,7 @@
     "genre": "Experimental",
     "mood": ["Cool", "Interesting", "Easygoing", "Playful", "Sweet"],
     "daw": "Cubase",
-    "plugins": ["HALionOne", "Monologue", "Prologue", "Spector"],
+    "instruments": ["HALionOne", "Monologue", "Prologue", "Spector"],
     "guitar": false,
     "sample": false
   },
@@ -615,7 +615,7 @@
     "genre": "Electroacoustic",
     "mood": ["Rowdy", "Strange", "Weird", "Unusual"],
     "daw": "Cubase",
-    "plugins": ["Mystic"],
+    "instruments": ["Mystic"],
     "guitar": false,
     "sample": false
   },
@@ -631,7 +631,7 @@
     "genre": "Alternative",
     "mood": ["Sentimental", "Melancholy", "Tender"],
     "daw": "Cubase",
-    "plugins": [],
+    "instruments": [],
     "guitar": true,
     "sample": false
   },
@@ -647,7 +647,7 @@
     "genre": "Shoegaze",
     "mood": ["Tender", "Calm", "Minimal", "Yearning", "Inspirational"],
     "daw": "Cubase",
-    "plugins": ["Prologue", "Spector"],
+    "instruments": ["Prologue", "Spector"],
     "guitar": false,
     "sample": false
   },
@@ -663,7 +663,7 @@
     "genre": "Experimental",
     "mood": ["Cool", "Excited", "Fun", "Playful"],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "Spector"],
+    "instruments": ["Groove Agent ONE", "Spector"],
     "guitar": false,
     "sample": false
   },
@@ -679,7 +679,7 @@
     "genre": "Orchestral",
     "mood": ["Serious", "Dark", "Sad"],
     "daw": "Cubase",
-    "plugins": ["HALionOne", "Prologue"],
+    "instruments": ["HALionOne", "Prologue"],
     "guitar": false,
     "sample": false
   },
@@ -695,7 +695,7 @@
     "genre": "Experimental",
     "mood": ["Sophisticated", "Dark", "Brooding", "Serious", "Gritty"],
     "daw": "Cubase",
-    "plugins": ["Embracer", "Groove Agent ONE", "Prologue"],
+    "instruments": ["Embracer", "Groove Agent ONE", "Prologue"],
     "guitar": false,
     "sample": false
   },
@@ -711,7 +711,7 @@
     "genre": "Electronic",
     "mood": ["Stirring", "Dark", "Defiant", "Hard", "Strange"],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "Mystic", "Prologue"],
+    "instruments": ["Groove Agent ONE", "Mystic", "Prologue"],
     "guitar": false,
     "sample": false
   },
@@ -727,7 +727,7 @@
     "genre": "Experimental",
     "mood": ["Brooding", "Cautious", "Sneaky", "Interesting", "Unusual"],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "HALionOne", "Monologue", "Prologue"],
+    "instruments": ["Groove Agent ONE", "HALionOne", "Monologue", "Prologue"],
     "guitar": true,
     "sample": false
   },
@@ -743,7 +743,7 @@
     "genre": "Alternative",
     "mood": ["Brooding", "Thoughtful", "Dark", "Depressing"],
     "daw": "Cubase",
-    "plugins": ["HALionOne", "Mystic", "Prologue"],
+    "instruments": ["HALionOne", "Mystic", "Prologue"],
     "guitar": true,
     "sample": false
   },
@@ -759,7 +759,7 @@
     "genre": "Alternative",
     "mood": ["Sophisticated", "Mysterious"],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "Monologue", "Prologue"],
+    "instruments": ["Groove Agent ONE", "Monologue", "Prologue"],
     "guitar": true,
     "sample": false
   },
@@ -775,7 +775,7 @@
     "genre": "Electronic",
     "mood": ["Melancholy", "Mellow", "Sentimental"],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "HALionOne", "Prologue"],
+    "instruments": ["Groove Agent ONE", "HALionOne", "Prologue"],
     "guitar": false,
     "sample": false
   },
@@ -791,7 +791,7 @@
     "genre": "Electronic",
     "mood": ["Empowering", "Gritty", "Courageous", "Inspirational"],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "HALionOne"],
+    "instruments": ["Groove Agent ONE", "HALionOne"],
     "guitar": false,
     "sample": false
   },
@@ -807,7 +807,7 @@
     "genre": "Alternative",
     "mood": ["Yearning", "Easygoing", "Thoughtful"],
     "daw": "Cubase",
-    "plugins": ["Guitar Rig", "Kontakt", "Reaktor"],
+    "instruments": ["Guitar Rig", "Kontakt", "Reaktor"],
     "guitar": true,
     "sample": false
   },
@@ -823,7 +823,7 @@
     "genre": "Electronic",
     "mood": ["Stirring", "Empowering", "Courageous"],
     "daw": "Cubase",
-    "plugins": ["Reaktor"],
+    "instruments": ["Reaktor"],
     "guitar": true,
     "sample": true
   },
@@ -839,7 +839,7 @@
     "genre": "Electronic",
     "mood": ["Empowering", "Cool", "Courageous", "Gritty"],
     "daw": "Cubase",
-    "plugins": ["Kontakt"],
+    "instruments": ["Kontakt"],
     "guitar": false,
     "sample": false
   },
@@ -855,7 +855,7 @@
     "genre": "Electronic",
     "mood": ["Fiery", "Upbeat", "Empowering", "Excited", "Inspirational"],
     "daw": "Cubase",
-    "plugins": ["Kontakt"],
+    "instruments": ["Kontakt"],
     "guitar": false,
     "sample": false
   },
@@ -871,7 +871,7 @@
     "genre": "Experimental",
     "mood": ["Serious", "Moody", "Depressing", "Thoughtful", "Weird"],
     "daw": "Cubase",
-    "plugins": ["Reaktor"],
+    "instruments": ["Reaktor"],
     "guitar": false,
     "sample": false
   },
@@ -887,7 +887,7 @@
     "genre": "Electronic",
     "mood": ["Yearning", "Chill", "Tender"],
     "daw": "Cubase",
-    "plugins": ["LoopMash", "Reaktor"],
+    "instruments": ["LoopMash", "Reaktor"],
     "guitar": false,
     "sample": false
   },
@@ -903,7 +903,7 @@
     "genre": "Electronic",
     "mood": ["Brooding", "Moody", "Worrying"],
     "daw": "Ableton Live",
-    "plugins": [],
+    "instruments": [],
     "guitar": false,
     "sample": false
   },
@@ -919,7 +919,7 @@
     "genre": "Electronic",
     "mood": ["Chill", "Stylish"],
     "daw": "Cubase",
-    "plugins": [
+    "instruments": [
       "Embracer",
       "Groove Agent ONE",
       "HALionOne",
@@ -941,7 +941,7 @@
     "genre": "Ambient",
     "mood": ["Tender", "Calm", "Focused", "Mystical", "Thoughtful"],
     "daw": "Cubase",
-    "plugins": ["Kontakt", "Reaktor"],
+    "instruments": ["Kontakt", "Reaktor"],
     "guitar": false,
     "sample": false
   },
@@ -957,7 +957,7 @@
     "genre": "Alternative",
     "mood": ["Melancholy", "Brooding", "Focused", "Serious", "Thoughtful"],
     "daw": "Cubase",
-    "plugins": ["Guitar Rig"],
+    "instruments": ["Guitar Rig"],
     "guitar": true,
     "sample": false
   },
@@ -981,7 +981,7 @@
       "Worrying"
     ],
     "daw": "Cubase",
-    "plugins": ["minimoog-v"],
+    "instruments": ["minimoog-v"],
     "guitar": false,
     "sample": false
   },
@@ -1005,7 +1005,7 @@
       "Pessimistic"
     ],
     "daw": "Cubase",
-    "plugins": ["minimoog-v"],
+    "instruments": ["minimoog-v"],
     "guitar": false,
     "sample": false
   },
@@ -1021,7 +1021,7 @@
     "genre": "Industrial",
     "mood": ["Gritty", "Dark", "Defiant", "Sneaky", "Mysterious"],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "minimoog-v"],
     "guitar": false,
     "sample": false
   },
@@ -1037,7 +1037,7 @@
     "genre": "Electro",
     "mood": ["Cool", "Fiery", "Fun", "Happy", "Optimistic"],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v", "Monologue"],
+    "instruments": ["Groove Agent ONE", "minimoog-v", "Monologue"],
     "guitar": false,
     "sample": false
   },
@@ -1053,7 +1053,7 @@
     "genre": "Trance",
     "mood": ["Stirring", "Defiant", "Fiery", "Focused", "Determined"],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "minimoog-v"],
     "guitar": false,
     "sample": false
   },
@@ -1078,7 +1078,7 @@
       "Serious"
     ],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v", "Reaktor"],
+    "instruments": ["Groove Agent ONE", "minimoog-v", "Reaktor"],
     "guitar": false,
     "sample": false
   },
@@ -1094,7 +1094,7 @@
     "genre": "Electronic",
     "mood": ["Brooding", "Dark", "Moody", "Mysterious", "Serious"],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v", "Reaktor"],
+    "instruments": ["Groove Agent ONE", "minimoog-v", "Reaktor"],
     "guitar": false,
     "sample": false
   },
@@ -1110,7 +1110,7 @@
     "genre": "Drum n Bass",
     "mood": ["Easygoing", "Cool", "Mellow", "Optimistic"],
     "daw": "Cubase",
-    "plugins": ["Kontakt", "minimoog-v"],
+    "instruments": ["Kontakt", "minimoog-v"],
     "guitar": false,
     "sample": false
   },
@@ -1126,7 +1126,7 @@
     "genre": "Electronic",
     "mood": ["Calm", "Curious", "Interesting"],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "minimoog-v"],
     "guitar": false,
     "sample": false
   },
@@ -1142,7 +1142,7 @@
     "genre": "Electronic",
     "mood": ["Sensual", "Stylish", "Confident"],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "Kontakt", "minimoog-v", "Reaktor"],
+    "instruments": ["Groove Agent ONE", "Kontakt", "minimoog-v", "Reaktor"],
     "guitar": false,
     "sample": true
   },
@@ -1165,7 +1165,7 @@
       "Worrying"
     ],
     "daw": "Cubase",
-    "plugins": ["SampleTank"],
+    "instruments": ["SampleTank"],
     "guitar": false,
     "sample": false
   },
@@ -1181,7 +1181,7 @@
     "genre": "Electronic",
     "mood": ["Energizing", "Cool", "Determined", "Optimistic"],
     "daw": "Cubase",
-    "plugins": ["Retrologue"],
+    "instruments": ["Retrologue"],
     "guitar": false,
     "sample": false
   },
@@ -1197,7 +1197,7 @@
     "genre": "Electronic",
     "mood": ["Sophisticated", "Cautious", "Curious", "Interesting", "Sneaky"],
     "daw": "Cubase",
-    "plugins": ["Retrologue"],
+    "instruments": ["Retrologue"],
     "guitar": false,
     "sample": false
   },
@@ -1221,7 +1221,7 @@
       "Yearning"
     ],
     "daw": "Cubase",
-    "plugins": ["Retrologue"],
+    "instruments": ["Retrologue"],
     "guitar": false,
     "sample": false
   },
@@ -1246,7 +1246,7 @@
       "Unusual"
     ],
     "daw": "Cubase",
-    "plugins": ["Retrologue"],
+    "instruments": ["Retrologue"],
     "guitar": false,
     "sample": false
   },
@@ -1262,7 +1262,7 @@
     "genre": "Electronic",
     "mood": ["Cautious", "Curious", "Focused", "Gritty", "Sneaky", "Strange"],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v", "Reaktor"],
+    "instruments": ["Groove Agent ONE", "minimoog-v", "Reaktor"],
     "guitar": false,
     "sample": false
   },
@@ -1278,7 +1278,7 @@
     "genre": "Electronic",
     "mood": ["Anxious", "Defiant", "Focused", "Moody", "Uneasy", "Worrying"],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "minimoog-v"],
     "guitar": false,
     "sample": false
   },
@@ -1302,7 +1302,7 @@
       "Tender"
     ],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "minimoog-v"],
     "guitar": false,
     "sample": false
   },
@@ -1318,7 +1318,7 @@
     "genre": "Experimental",
     "mood": ["Curious", "Interesting", "Mysterious", "Mystical", "Unusual"],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v", "Reaktor"],
+    "instruments": ["Groove Agent ONE", "minimoog-v", "Reaktor"],
     "guitar": false,
     "sample": false
   },
@@ -1343,7 +1343,7 @@
       "Worrying"
     ],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "minimoog-v"],
     "guitar": true,
     "sample": false
   },
@@ -1368,7 +1368,7 @@
       "Playful"
     ],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "minimoog-v"],
     "guitar": false,
     "sample": false
   },
@@ -1392,7 +1392,7 @@
       "Worrying"
     ],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v", "Reaktor"],
+    "instruments": ["Groove Agent ONE", "minimoog-v", "Reaktor"],
     "guitar": false,
     "sample": false
   },
@@ -1419,7 +1419,7 @@
       "Worrying"
     ],
     "daw": "Cubase",
-    "plugins": ["minimoog-v", "Reaktor"],
+    "instruments": ["minimoog-v", "Reaktor"],
     "guitar": false,
     "sample": true
   },
@@ -1447,7 +1447,7 @@
       "Worrying"
     ],
     "daw": "Cubase",
-    "plugins": ["minimoog-v"],
+    "instruments": ["minimoog-v"],
     "guitar": false,
     "sample": false
   },
@@ -1470,7 +1470,7 @@
       "Yearning"
     ],
     "daw": "Cubase",
-    "plugins": [],
+    "instruments": [],
     "guitar": true,
     "sample": false
   },
@@ -1496,7 +1496,7 @@
       "Upbeat"
     ],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "minimoog-v"],
     "guitar": false,
     "sample": false
   },
@@ -1512,7 +1512,7 @@
     "genre": "Electronic",
     "mood": ["Curious", "Defiant", "Determined", "Moody", "Unusual"],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "minimoog-v"],
     "guitar": false,
     "sample": false
   },
@@ -1536,7 +1536,7 @@
       "Uneasy"
     ],
     "daw": "Cubase",
-    "plugins": ["minimoog-v", "Reaktor"],
+    "instruments": ["minimoog-v", "Reaktor"],
     "guitar": true,
     "sample": true
   },
@@ -1559,7 +1559,7 @@
       "Yearning"
     ],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "Kontakt", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "Kontakt", "minimoog-v"],
     "guitar": true,
     "sample": false
   },
@@ -1575,7 +1575,7 @@
     "genre": "Electronic",
     "mood": ["Calm", "Chill", "Confident", "Cool", "Yearning"],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v", "Reaktor"],
+    "instruments": ["Groove Agent ONE", "minimoog-v", "Reaktor"],
     "guitar": false,
     "sample": false
   },
@@ -1602,7 +1602,7 @@
       "Worrying"
     ],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "HALionOne", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "HALionOne", "minimoog-v"],
     "guitar": false,
     "sample": false
   },
@@ -1628,7 +1628,7 @@
       "Yearning"
     ],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "minimoog-v"],
     "guitar": false,
     "sample": false
   },
@@ -1653,7 +1653,7 @@
       "Upbeat"
     ],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "minimoog-v"],
     "guitar": false,
     "sample": false
   },
@@ -1678,7 +1678,7 @@
       "Weird"
     ],
     "daw": "Cubase",
-    "plugins": ["minimoog-v", "Reaktor"],
+    "instruments": ["minimoog-v", "Reaktor"],
     "guitar": false,
     "sample": false
   },
@@ -1702,7 +1702,7 @@
       "Stylish"
     ],
     "daw": "Soundation",
-    "plugins": [],
+    "instruments": [],
     "guitar": false,
     "sample": true
   },
@@ -1729,7 +1729,7 @@
       "Tender"
     ],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "minimoog-v"],
     "guitar": false,
     "sample": true
   },
@@ -1754,7 +1754,7 @@
       "Stirring"
     ],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v", "Monologue"],
+    "instruments": ["Groove Agent ONE", "minimoog-v", "Monologue"],
     "guitar": false,
     "sample": false
   },
@@ -1779,7 +1779,7 @@
       "Tender"
     ],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "HALionOne", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "HALionOne", "minimoog-v"],
     "guitar": false,
     "sample": false
   },
@@ -1805,7 +1805,7 @@
       "Worrying"
     ],
     "daw": "Cubase",
-    "plugins": ["HALionOne", "Kontakt", "minimoog-v", "Monologue"],
+    "instruments": ["HALionOne", "Kontakt", "minimoog-v", "Monologue"],
     "guitar": false,
     "sample": true
   },
@@ -1828,7 +1828,7 @@
       "Unusual"
     ],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "Kontakt", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "Kontakt", "minimoog-v"],
     "guitar": false,
     "sample": false
   },
@@ -1855,7 +1855,7 @@
       "Worrying"
     ],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v", "Reaktor"],
+    "instruments": ["Groove Agent ONE", "minimoog-v", "Reaktor"],
     "guitar": false,
     "sample": false
   },
@@ -1878,7 +1878,7 @@
       "Sensual"
     ],
     "daw": "Cubase",
-    "plugins": ["HALionOne", "minimoog-v", "Monologue"],
+    "instruments": ["HALionOne", "minimoog-v", "Monologue"],
     "guitar": false,
     "sample": true
   },
@@ -1902,7 +1902,7 @@
       "Stylish"
     ],
     "daw": "Cubase",
-    "plugins": ["minimoog-v"],
+    "instruments": ["minimoog-v"],
     "guitar": false,
     "sample": true
   },
@@ -1929,7 +1929,7 @@
       "Yearning"
     ],
     "daw": "Cubase",
-    "plugins": ["minimoog-v"],
+    "instruments": ["minimoog-v"],
     "guitar": false,
     "sample": false
   },
@@ -1956,7 +1956,7 @@
       "Yearning"
     ],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "minimoog-v"],
     "guitar": false,
     "sample": false
   },
@@ -1980,7 +1980,7 @@
       "Thoughtful"
     ],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "minimoog-v"],
     "guitar": false,
     "sample": false
   },
@@ -2005,7 +2005,7 @@
       "Worrying"
     ],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v", "Reaktor"],
+    "instruments": ["Groove Agent ONE", "minimoog-v", "Reaktor"],
     "guitar": false,
     "sample": false
   },
@@ -2032,7 +2032,7 @@
       "Upbeat"
     ],
     "daw": "Cubase",
-    "plugins": ["minimoog-v"],
+    "instruments": ["minimoog-v"],
     "guitar": false,
     "sample": true
   },
@@ -2058,7 +2058,7 @@
       "Yearning"
     ],
     "daw": "Cubase",
-    "plugins": ["HALionOne", "minimoog-v", "Reaktor"],
+    "instruments": ["HALionOne", "minimoog-v", "Reaktor"],
     "guitar": false,
     "sample": false
   },
@@ -2074,7 +2074,7 @@
     "genre": "Electronic",
     "mood": ["Excited", "Focused", "Gritty", "Interesting", "Upbeat"],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "minimoog-v"],
     "guitar": false,
     "sample": true
   },
@@ -2100,7 +2100,7 @@
       "Weird"
     ],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "minimoog-v"],
     "guitar": false,
     "sample": true
   },
@@ -2127,7 +2127,7 @@
       "Stylish"
     ],
     "daw": "Cubase",
-    "plugins": ["HALionOne", "minimoog-v"],
+    "instruments": ["HALionOne", "minimoog-v"],
     "guitar": false,
     "sample": true
   },
@@ -2143,7 +2143,7 @@
     "genre": "Industrial",
     "mood": ["Calm", "Chill", "Easygoing", "Mellow", "Thoughtful", "Yearning"],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "minimoog-v"],
     "guitar": false,
     "sample": false
   },
@@ -2170,7 +2170,7 @@
       "Worrying"
     ],
     "daw": "Cubase",
-    "plugins": ["minimoog-v", "Reaktor"],
+    "instruments": ["minimoog-v", "Reaktor"],
     "guitar": false,
     "sample": true
   },
@@ -2197,7 +2197,7 @@
       "Stirring"
     ],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v", "Reaktor"],
+    "instruments": ["Groove Agent ONE", "minimoog-v", "Reaktor"],
     "guitar": false,
     "sample": true
   },
@@ -2224,7 +2224,7 @@
       "Thoughtful"
     ],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v", "Prologue"],
+    "instruments": ["Groove Agent ONE", "minimoog-v", "Prologue"],
     "guitar": false,
     "sample": false
   },
@@ -2251,7 +2251,7 @@
       "Weird"
     ],
     "daw": "Cubase",
-    "plugins": ["minimoog-v", "Monologue", "Prologue"],
+    "instruments": ["minimoog-v", "Monologue", "Prologue"],
     "guitar": false,
     "sample": true
   },
@@ -2276,7 +2276,7 @@
       "Tender"
     ],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v", "Monologue", "Prologue"],
+    "instruments": ["Groove Agent ONE", "minimoog-v", "Monologue", "Prologue"],
     "guitar": false,
     "sample": false
   },
@@ -2301,7 +2301,7 @@
       "Yearning"
     ],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "minimoog-v"],
     "guitar": false,
     "sample": false
   },
@@ -2327,7 +2327,7 @@
       "Thoughtful"
     ],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "minimoog-v"],
     "guitar": false,
     "sample": true
   },
@@ -2354,7 +2354,7 @@
       "Worrying"
     ],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v", "Reaktor"],
+    "instruments": ["Groove Agent ONE", "minimoog-v", "Reaktor"],
     "guitar": false,
     "sample": true
   },
@@ -2379,7 +2379,7 @@
       "Worrying"
     ],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "Kontakt", "minimoog-v", "Prologue"],
+    "instruments": ["Groove Agent ONE", "Kontakt", "minimoog-v", "Prologue"],
     "guitar": false,
     "sample": true
   },
@@ -2406,7 +2406,7 @@
       "Yearning"
     ],
     "daw": "Cubase",
-    "plugins": ["minimoog-v", "SampleTank"],
+    "instruments": ["minimoog-v", "SampleTank"],
     "guitar": false,
     "sample": false
   },
@@ -2430,7 +2430,7 @@
       "Worrying"
     ],
     "daw": "Cubase",
-    "plugins": ["Synth1"],
+    "instruments": ["Synth1"],
     "guitar": false,
     "sample": false
   },
@@ -2446,7 +2446,7 @@
     "genre": "Electronic",
     "mood": ["Cool", "Excited", "Optimistic", "Upbeat"],
     "daw": "Cubase",
-    "plugins": ["Synth1"],
+    "instruments": ["Synth1"],
     "guitar": false,
     "sample": false
   },
@@ -2472,7 +2472,7 @@
       "Unusual"
     ],
     "daw": "Cubase",
-    "plugins": ["Kontakt", "minimoog-v", "Reaktor"],
+    "instruments": ["Kontakt", "minimoog-v", "Reaktor"],
     "guitar": false,
     "sample": false
   },
@@ -2488,7 +2488,7 @@
     "genre": "Electronic",
     "mood": ["Chill", "Easygoing", "Inspirational", "Optimistic", "Sweet"],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v", "Prologue"],
+    "instruments": ["Groove Agent ONE", "minimoog-v", "Prologue"],
     "guitar": false,
     "sample": false
   },
@@ -2514,7 +2514,7 @@
       "Upbeat"
     ],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "minimoog-v"],
+    "instruments": ["Groove Agent ONE", "minimoog-v"],
     "guitar": false,
     "sample": false
   },
@@ -2538,7 +2538,7 @@
       "Sweet"
     ],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "Kontakt", "Reaktor"],
+    "instruments": ["Groove Agent ONE", "Kontakt", "Reaktor"],
     "guitar": false,
     "sample": false
   },
@@ -2554,7 +2554,7 @@
     "genre": "Electronic",
     "mood": ["Chill", "Cool", "Fun", "Happy", "Optimistic", "Sweet", "Tender"],
     "daw": "Reason",
-    "plugins": ["Radical Keys", "Redrum", "Thor", "Malström"],
+    "instruments": ["Radical Keys", "Redrum", "Thor", "Malström"],
     "guitar": false,
     "sample": false
   },
@@ -2579,7 +2579,7 @@
       "Unusual"
     ],
     "daw": "Reason",
-    "plugins": ["Kong", "Malström", "Thor"],
+    "instruments": ["Kong", "Malström", "Thor"],
     "guitar": false,
     "sample": false
   },
@@ -2605,7 +2605,7 @@
       "Stirring"
     ],
     "daw": "Reason",
-    "plugins": ["Korg Polysix", "Redrum", "Malström", "Thor"],
+    "instruments": ["Korg Polysix", "Redrum", "Malström", "Thor"],
     "guitar": false,
     "sample": false
   },
@@ -2631,7 +2631,7 @@
       "Worrying"
     ],
     "daw": "Reason",
-    "plugins": [
+    "instruments": [
       "Subtractor",
       "Malström",
       "Dr. Octo Rex",
@@ -2663,7 +2663,13 @@
       "Uneasy"
     ],
     "daw": "Reason",
-    "plugins": ["Korg Mono/Poly", "Thor", "Redrum", "Malström", "Subtractor"],
+    "instruments": [
+      "Korg Mono/Poly",
+      "Thor",
+      "Redrum",
+      "Malström",
+      "Subtractor"
+    ],
     "guitar": false,
     "sample": false
   },
@@ -2687,7 +2693,7 @@
       "Sensual"
     ],
     "daw": "Reason",
-    "plugins": ["Radical Keys", "Redrum", "Subtractor", "PX7"],
+    "instruments": ["Radical Keys", "Redrum", "Subtractor", "PX7"],
     "guitar": false,
     "sample": false
   },
@@ -2703,7 +2709,7 @@
     "genre": "Hip Hop",
     "mood": ["Curious", "Easygoing", "Interesting", "Mellow", "Sophisticated"],
     "daw": "Reason",
-    "plugins": ["Malström", "Thor", "Dr. Octo Rex"],
+    "instruments": ["Malström", "Thor", "Dr. Octo Rex"],
     "guitar": false,
     "sample": false
   },
@@ -2730,7 +2736,7 @@
       "Sensual"
     ],
     "daw": "Reason",
-    "plugins": ["NN-XT", "Thor", "Dr. Octo Rex", "Redrum"],
+    "instruments": ["NN-XT", "Thor", "Dr. Octo Rex", "Redrum"],
     "guitar": false,
     "sample": false
   },
@@ -2755,7 +2761,7 @@
       "Tender"
     ],
     "daw": "Reason",
-    "plugins": ["Thor", "Malström", "Kong", "Subtractor"],
+    "instruments": ["Thor", "Malström", "Kong", "Subtractor"],
     "guitar": false,
     "sample": false
   },
@@ -2782,7 +2788,7 @@
       "Stirring"
     ],
     "daw": "Reason",
-    "plugins": ["Thor", "Malström", "PX7", "Redrum", "Kong"],
+    "instruments": ["Thor", "Malström", "PX7", "Redrum", "Kong"],
     "guitar": false,
     "sample": false
   },
@@ -2806,7 +2812,7 @@
       "Tender"
     ],
     "daw": "Reason",
-    "plugins": [
+    "instruments": [
       "Kong",
       "Redrum",
       "Subtractor",
@@ -2838,7 +2844,7 @@
       "Thoughtful"
     ],
     "daw": "Reason",
-    "plugins": ["NN-XT", "Thor"],
+    "instruments": ["NN-XT", "Thor"],
     "guitar": false,
     "sample": false
   },
@@ -2864,7 +2870,7 @@
       "Sweet"
     ],
     "daw": "Reason",
-    "plugins": ["PX7", "Radical Keys", "Malström", "Kong", "Redrum"],
+    "instruments": ["PX7", "Radical Keys", "Malström", "Kong", "Redrum"],
     "guitar": false,
     "sample": false
   },
@@ -2891,7 +2897,7 @@
       "Tender"
     ],
     "daw": "Reason",
-    "plugins": ["Malström", "Korg Polysix", "Redrum", "Thor"],
+    "instruments": ["Malström", "Korg Polysix", "Redrum", "Thor"],
     "guitar": false,
     "sample": false
   },
@@ -2915,7 +2921,7 @@
       "Worrying"
     ],
     "daw": "Reason",
-    "plugins": ["Subtractor", "Kong", "Malström", "Korg Mono/Poly", "PX7"],
+    "instruments": ["Subtractor", "Kong", "Malström", "Korg Mono/Poly", "PX7"],
     "guitar": false,
     "sample": false
   },
@@ -2931,7 +2937,7 @@
     "genre": "Electronic",
     "mood": ["Confident", "Cool", "Easygoing", "Fun", "Optimistic", "Stylish"],
     "daw": "Reason",
-    "plugins": ["Thor", "Korg Mono/Poly", "Dr. Octo Rex"],
+    "instruments": ["Thor", "Korg Mono/Poly", "Dr. Octo Rex"],
     "guitar": false,
     "sample": true
   },
@@ -2956,7 +2962,7 @@
       "Uneasy"
     ],
     "daw": "Reason",
-    "plugins": ["Thor", "Redrum"],
+    "instruments": ["Thor", "Redrum"],
     "guitar": false,
     "sample": false
   },
@@ -2981,7 +2987,7 @@
       "Tender"
     ],
     "daw": "Reason",
-    "plugins": ["Subtractor", "Thor"],
+    "instruments": ["Subtractor", "Thor"],
     "guitar": false,
     "sample": false
   },
@@ -3008,7 +3014,7 @@
       "Serious"
     ],
     "daw": "Reason",
-    "plugins": ["NN-XT"],
+    "instruments": ["NN-XT"],
     "guitar": false,
     "sample": false
   },
@@ -3032,7 +3038,7 @@
       "Upbeat"
     ],
     "daw": "Reason",
-    "plugins": ["NN-XT", "Radical Keys", "Dr. Octo Rex", "Thor", "PX7"],
+    "instruments": ["NN-XT", "Radical Keys", "Dr. Octo Rex", "Thor", "PX7"],
     "guitar": false,
     "sample": false
   },
@@ -3048,7 +3054,7 @@
     "genre": "Electronic",
     "mood": ["Confident", "Determined", "Fiery", "Rowdy", "Stirring", "Upbeat"],
     "daw": "Reason",
-    "plugins": ["Pulsar", "Thor", "Malström", "Dr. Octo Rex", "Kong"],
+    "instruments": ["Thor", "Malström", "Dr. Octo Rex", "Kong"],
     "guitar": false,
     "sample": false
   },
@@ -3073,7 +3079,7 @@
       "Sweet"
     ],
     "daw": "Reason",
-    "plugins": ["Thor", "Kong", "Malström", "PX7"],
+    "instruments": ["Thor", "Kong", "Malström", "PX7"],
     "guitar": false,
     "sample": false
   },
@@ -3089,7 +3095,7 @@
     "genre": "Chillout",
     "mood": ["Chill", "Easygoing", "Mellow", "Stylish"],
     "daw": "Reason",
-    "plugins": ["Kong", "NN-XT", "Radical Keys", "Thor", "Korg Polysix"],
+    "instruments": ["Kong", "NN-XT", "Radical Keys", "Thor", "Korg Polysix"],
     "guitar": false,
     "sample": false
   },
@@ -3114,7 +3120,7 @@
       "Stirring"
     ],
     "daw": "Reason",
-    "plugins": ["Thor", "PX7", "Redrum", "Korg Mono/Poly"],
+    "instruments": ["Thor", "PX7", "Redrum", "Korg Mono/Poly"],
     "guitar": false,
     "sample": false
   },
@@ -3137,7 +3143,14 @@
       "Yearning"
     ],
     "daw": "Reason",
-    "plugins": ["Thor", "Malström", "Kong", "Redrum", "PX7", "Korg Mono/Poly"],
+    "instruments": [
+      "Thor",
+      "Malström",
+      "Kong",
+      "Redrum",
+      "PX7",
+      "Korg Mono/Poly"
+    ],
     "guitar": false,
     "sample": false
   },
@@ -3164,7 +3177,7 @@
       "Worrying"
     ],
     "daw": "Cubase",
-    "plugins": ["UVI Workstation"],
+    "instruments": ["UVI Workstation"],
     "guitar": false,
     "sample": true
   },
@@ -3190,7 +3203,7 @@
       "Upbeat"
     ],
     "daw": "Cubase",
-    "plugins": ["UVI Workstation"],
+    "instruments": ["UVI Workstation"],
     "guitar": false,
     "sample": true
   },
@@ -3214,7 +3227,7 @@
       "Yearning"
     ],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "UVI Workstation"],
+    "instruments": ["Groove Agent ONE", "UVI Workstation"],
     "guitar": false,
     "sample": false
   },
@@ -3238,7 +3251,7 @@
       "Stylish"
     ],
     "daw": "Cubase",
-    "plugins": ["Groove Agent ONE", "UVI Workstation"],
+    "instruments": ["Groove Agent ONE", "UVI Workstation"],
     "guitar": false,
     "sample": false
   }
