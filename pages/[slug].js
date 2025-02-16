@@ -24,7 +24,7 @@ export default function Song({ song, artwork }) {
             className="w-full rounded h-10 opacity-50"
           >
             <source
-              src={`https://blockdaemon-audius-discovery-08.bdnodes.net/v1/tracks/${song.audius_id}/stream?app_name=sevaztian`}
+              src={`https://audius-metadata-5.figment.io/v1/tracks/${song.audius_id}/stream?app_name=sevaztian`}
               type="audio/mpeg"
             />
           </audio>

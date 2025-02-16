@@ -71,7 +71,7 @@ export default function Home() {
               className="w-full rounded h-10 opacity-50"
             >
               <source
-                src="https://blockdaemon-audius-discovery-08.bdnodes.net/v1/tracks/EaXJR/stream?app_name=sevaztian"
+                src="https://audius-metadata-5.figment.io/v1/tracks/EaXJR/stream?app_name=sevaztian"
                 type="audio/mpeg"
               />
             </audio>
@@ -98,7 +98,7 @@ export default function Home() {
               className="w-full rounded h-10 opacity-50"
             >
               <source
-                src="https://blockdaemon-audius-discovery-08.bdnodes.net/v1/tracks/JNb8Z/stream?app_name=sevaztian"
+                src="https://audius-metadata-5.figment.io/v1/tracks/JNb8Z/stream?app_name=sevaztian"
                 type="audio/mpeg"
               />
             </audio>
@@ -125,7 +125,7 @@ export default function Home() {
               className="w-full rounded h-10 opacity-50"
             >
               <source
-                src="https://blockdaemon-audius-discovery-08.bdnodes.net/v1/tracks/0R7PK/stream?app_name=sevaztian"
+                src="https://audius-metadata-5.figment.io/v1/tracks/0R7PK/stream?app_name=sevaztian"
                 type="audio/mpeg"
               />
             </audio>
