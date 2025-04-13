@@ -6,9 +6,10 @@ export default function Home() {
     <div className="px-10 flex flex-wrap rounded-lg overflow-hidden">
       <div className="lg:w-1/2 w-full lg:py-6 lg:pr-5 mb-12 lg:mb-0 lg:flex lg:flex-col lg:justify-center">
         <h1 className="text-2xl font-bold mb-1">sevaztian</h1>
-        <p className="italic mb-10">One short song a week.</p>
+        <p className="italic mb-10">One short song a week</p>
         <p className="mb-4">
           Currently working on this website. It will be updated frequently.
+          <br />
           Please check back in the coming days.
         </p>
         <p className="mb-10">
@@ -25,10 +26,10 @@ export default function Home() {
         <ul className="list-disc list-inside">
           <li>
             <a
-              href="https://twitter.com/_sevaztian"
+              href="https://soundcloud.com/sevaztian"
               className="underline text-sky-300 hover:text-sky-400"
             >
-              Twitter
+              SoundCloud
             </a>
           </li>
           <li>
@@ -41,10 +42,34 @@ export default function Home() {
           </li>
           <li>
             <a
-              href="https://soundcloud.com/sevaztian"
+              href="https://x.com/_sevaztian"
               className="underline text-sky-300 hover:text-sky-400"
             >
-              SoundCloud
+              X / Twitter
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.instagram.com/_sevaztian/"
+              className="underline text-sky-300 hover:text-sky-400"
+            >
+              Instagram
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.tiktok.com/@_sevaztian"
+              className="underline text-sky-300 hover:text-sky-400"
+            >
+              TikTok
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.youtube.com/@sevaztian_music"
+              className="underline text-sky-300 hover:text-sky-400"
+            >
+              YouTube
             </a>
           </li>
         </ul>

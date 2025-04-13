@@ -37,6 +37,15 @@ export default function About() {
         </a>{" "}
         for a living.
       </p>
+      <p className="mb-8">
+        Find me around the internet:{" "}
+        <a
+          href="https://linktr.ee/sevaztian"
+          className="underline text-sky-300 hover:text-sky-400"
+        >
+          Linktree
+        </a>
+      </p>
     </div>
   );
 }
