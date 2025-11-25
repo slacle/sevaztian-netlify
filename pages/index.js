@@ -7,72 +7,75 @@ export default function Home() {
       <div className="lg:w-1/2 w-full lg:py-6 lg:pr-5 mb-12 lg:mb-0 lg:flex lg:flex-col lg:justify-center">
         <h1 className="text-2xl font-bold mb-1">sevaztian</h1>
         <p className="italic mb-10">One short song a week</p>
-        <p className="mb-4">
-          Currently working on this website. It will be updated frequently.
-          <br />
-          Please check back in the coming days.
-        </p>
-        <p className="mb-10">
-          Feel free to listen to some{" "}
+        <p className="mb-15">
           <Link
             href={"/songs"}
-            className="underline text-sky-300 hover:text-sky-400"
+            className="rounded-full px-5 py-3 ring-5 ring-gray-800 text-sky-300 hover:text-sky-400"
           >
-            songs
-          </Link>{" "}
-          in the mean time.
+            go to all songs <span>&rarr;</span>
+          </Link>
         </p>
-        <p className="mb-2">You can find me on:</p>
-        <ul className="list-disc list-inside">
-          <li>
-            <a
-              href="https://soundcloud.com/sevaztian"
-              className="underline text-sky-300 hover:text-sky-400"
-            >
-              SoundCloud
-            </a>
-          </li>
-          <li>
-            <a
-              href="https://audius.co/sevaztian/"
-              className="underline text-sky-300 hover:text-sky-400"
-            >
-              Audius
-            </a>
-          </li>
-          <li>
-            <a
-              href="https://x.com/_sevaztian"
-              className="underline text-sky-300 hover:text-sky-400"
-            >
-              X / Twitter
-            </a>
-          </li>
-          <li>
-            <a
-              href="https://www.instagram.com/_sevaztian/"
-              className="underline text-sky-300 hover:text-sky-400"
-            >
-              Instagram
-            </a>
-          </li>
-          <li>
-            <a
-              href="https://www.tiktok.com/@_sevaztian"
-              className="underline text-sky-300 hover:text-sky-400"
-            >
-              TikTok
-            </a>
-          </li>
-          <li>
-            <a
-              href="https://www.youtube.com/@sevaztian_music"
-              className="underline text-sky-300 hover:text-sky-400"
-            >
-              YouTube
-            </a>
-          </li>
-        </ul>
+        <div className="max-w-max rounded-lg p-5 bg-neutral-800 mb-10">
+          <p className="mb-2">You can find me on:</p>
+          <ul className="list-disc list-inside">
+            <li>
+              <a
+                href="https://soundcloud.com/sevaztian"
+                className="underline text-sky-300 hover:text-sky-400"
+              >
+                SoundCloud
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://audius.co/sevaztian/"
+                className="underline text-sky-300 hover:text-sky-400"
+              >
+                Audius
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.youtube.com/@sevaztian_music"
+                className="underline text-sky-300 hover:text-sky-400"
+              >
+                YouTube
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://x.com/_sevaztian"
+                className="underline text-sky-300 hover:text-sky-400"
+              >
+                X / Twitter
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.instagram.com/_sevaztian/"
+                className="underline text-sky-300 hover:text-sky-400"
+              >
+                Instagram
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.tiktok.com/@_sevaztian"
+                className="underline text-sky-300 hover:text-sky-400"
+              >
+                TikTok
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://linktr.ee/sevaztian"
+                className="underline text-sky-300 hover:text-sky-400"
+              >
+                Linktree
+              </a>
+            </li>
+          </ul>
+        </div>
       </div>
       <div className="lg:w-1/2 w-full lg:py-6 lg:pl-5">
         <div className="sm:flex rounded-lg p-5 bg-neutral-800 mb-10 sm:mb-5">
