@@ -2,11 +2,11 @@ import Link from "next/link";
 
 const Header = () => {
   return (
-    <header className="text-neutral-200 bg-neutral-800 body-font">
+    <header className="text-neutral-200 bg-neutral-950 body-font">
       <div className="container flex justify-center mx-auto xl:px-20 lg:px-10 px-5 py-5">
         <Link
           href="/"
-          className="flex max-w-max title-font font-medium text-white mb-4 sm:mb-0"
+          className="flex max-w-max title-font font-medium text-white mb-4 sm:mb-0 hover:text-sky-300"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"

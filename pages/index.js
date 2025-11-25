@@ -4,10 +4,10 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div className="px-10 flex flex-wrap rounded-lg overflow-hidden">
-      <div className="lg:w-1/2 w-full lg:py-6 lg:pr-5 mb-12 lg:mb-0 lg:flex lg:flex-col lg:justify-center">
+      <div className="lg:w-1/4 w-full lg:py-6 lg:pr-5 mb-10 lg:mb-0 lg:flex lg:flex-col lg:justify-center text-center lg:text-left">
         <h1 className="text-2xl font-bold mb-1">sevaztian</h1>
         <p className="italic mb-10">One short song a week</p>
-        <p className="mb-15">
+        <p className="mb-10">
           <Link
             href={"/songs"}
             className="rounded-full px-5 py-3 ring-5 ring-gray-800 text-sky-300 hover:text-sky-400"
@@ -15,69 +15,8 @@ export default function Home() {
             go to all songs <span>&rarr;</span>
           </Link>
         </p>
-        <div className="max-w-max rounded-lg p-5 bg-neutral-800 mb-10">
-          <p className="mb-2">You can find me on:</p>
-          <ul className="list-disc list-inside">
-            <li>
-              <a
-                href="https://soundcloud.com/sevaztian"
-                className="underline text-sky-300 hover:text-sky-400"
-              >
-                SoundCloud
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://audius.co/sevaztian/"
-                className="underline text-sky-300 hover:text-sky-400"
-              >
-                Audius
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://www.youtube.com/@sevaztian_music"
-                className="underline text-sky-300 hover:text-sky-400"
-              >
-                YouTube
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://x.com/_sevaztian"
-                className="underline text-sky-300 hover:text-sky-400"
-              >
-                X / Twitter
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://www.instagram.com/_sevaztian/"
-                className="underline text-sky-300 hover:text-sky-400"
-              >
-                Instagram
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://www.tiktok.com/@_sevaztian"
-                className="underline text-sky-300 hover:text-sky-400"
-              >
-                TikTok
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://linktr.ee/sevaztian"
-                className="underline text-sky-300 hover:text-sky-400"
-              >
-                Linktree
-              </a>
-            </li>
-          </ul>
-        </div>
       </div>
-      <div className="lg:w-1/2 w-full lg:py-6 lg:pl-5">
+      <div className="lg:w-2/4 w-full lg:py-6 lg:pl-5 mb-20 lg:mb-0">
         <div className="sm:flex rounded-lg p-5 bg-neutral-800 mb-10 sm:mb-5">
           <Image
             src="https://blockdaemon-audius-content-03.bdnodes.net/content/QmUVXGpoXMdi2oNbdph6RVyBvxdBHRsAGA888WvRh7yE1m/150x150.jpg"
@@ -158,6 +97,85 @@ export default function Home() {
               />
             </audio>
           </div>
+        </div>
+      </div>
+      <div className="lg:w-1/4 w-full lg:py-6 lg:pl-5 flex justify-center lg:justify-end">
+        <div className="max-w-max self-center rounded-lg p-5 bg-neutral-800 mb-10">
+          <p className="mb-2">You can find me on:</p>
+          <ul className="list-disc list-inside">
+            <li className="mb-1 ml-1">
+              <a
+                href="https://soundcloud.com/sevaztian"
+                className="text-sky-300 hover:text-sky-400"
+              >
+                SoundCloud
+              </a>
+            </li>
+            <li className="mb-1 ml-1">
+              <a
+                href="https://audius.co/sevaztian/"
+                className="text-sky-300 hover:text-sky-400"
+              >
+                Audius
+              </a>
+            </li>
+            <li className="mb-1 ml-1">
+              <a
+                href="https://www.youtube.com/@sevaztian_music"
+                className="text-sky-300 hover:text-sky-400"
+              >
+                YouTube
+              </a>
+            </li>
+            <li className="mb-1 ml-1">
+              <a
+                href="https://x.com/_sevaztian"
+                className="text-sky-300 hover:text-sky-400"
+              >
+                X / Twitter
+              </a>
+            </li>
+            <li className="mb-1 ml-1">
+              <a
+                href="https://www.instagram.com/_sevaztian/"
+                className="text-sky-300 hover:text-sky-400"
+              >
+                Instagram
+              </a>
+            </li>
+            <li className="mb-1 ml-1">
+              <a
+                href="https://www.tiktok.com/@_sevaztian"
+                className="text-sky-300 hover:text-sky-400"
+              >
+                TikTok
+              </a>
+            </li>
+            <li className="mb-1 ml-1">
+              <a
+                href="https://mastodon.social/@sevaztian"
+                className="text-sky-300 hover:text-sky-400"
+              >
+                Mastodon
+              </a>
+            </li>
+            <li className="mb-1 ml-1">
+              <a
+                href="https://bsky.app/profile/sevaztian.com"
+                className="text-sky-300 hover:text-sky-400"
+              >
+                Bluesky
+              </a>
+            </li>
+            <li className="mb-1 ml-1">
+              <a
+                href="http://patreon.com/sevaztian"
+                className="text-sky-300 hover:text-sky-400"
+              >
+                Patreon
+              </a>
+            </li>
+          </ul>
         </div>
       </div>
     </div>
