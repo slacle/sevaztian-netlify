@@ -19,7 +19,7 @@ export default function Home() {
       <div className="lg:w-2/4 w-full lg:py-6 lg:pl-5 mb-20 lg:mb-0">
         <div className="sm:flex rounded-lg p-5 bg-neutral-800 mb-10 sm:mb-5">
           <Image
-            src="https://blockdaemon-audius-content-03.bdnodes.net/content/QmUVXGpoXMdi2oNbdph6RVyBvxdBHRsAGA888WvRh7yE1m/150x150.jpg"
+            src="https://audius-creator-5.theblueprint.xyz/content/QmUVXGpoXMdi2oNbdph6RVyBvxdBHRsAGA888WvRh7yE1m/150x150.jpg"
             alt="Week 29 of 2013"
             width={100}
             height={100}
@@ -38,7 +38,7 @@ export default function Home() {
               className="w-full rounded h-10 opacity-50"
             >
               <source
-                src="https://audius-metadata-5.figment.io/v1/tracks/EaXJR/stream?app_name=sevaztian"
+                src="https://api.audius.co/v1/tracks/EaXJR/stream?app_name=sevaztian"
                 type="audio/mpeg"
               />
             </audio>
@@ -46,7 +46,7 @@ export default function Home() {
         </div>
         <div className="sm:flex rounded-lg p-5 bg-neutral-800 mb-10 sm:mb-5">
           <Image
-            src="https://blockdaemon-audius-content-03.bdnodes.net/content/QmTWQcVofczZCeJvcUXHaMHhNhzXsFq2DQQexjnDzLAb4e/150x150.jpg"
+            src="https://audius-creator-5.theblueprint.xyz/content/QmTWQcVofczZCeJvcUXHaMHhNhzXsFq2DQQexjnDzLAb4e/150x150.jpg"
             alt="Week 30 of 2012"
             width={100}
             height={100}
@@ -65,7 +65,7 @@ export default function Home() {
               className="w-full rounded h-10 opacity-50"
             >
               <source
-                src="https://audius-metadata-5.figment.io/v1/tracks/JNb8Z/stream?app_name=sevaztian"
+                src="https://api.audius.co/v1/tracks/JNb8Z/stream?app_name=sevaztian"
                 type="audio/mpeg"
               />
             </audio>
@@ -73,7 +73,7 @@ export default function Home() {
         </div>
         <div className="sm:flex rounded-lg p-5 bg-neutral-800">
           <Image
-            src="https://blockdaemon-audius-content-03.bdnodes.net/content/QmVJxxLbGHvu7SD12fxbuqmvTJi1zk294fFVSYRksK9Dg4/150x150.jpg"
+            src="https://audius-creator-5.theblueprint.xyz/content/QmVJxxLbGHvu7SD12fxbuqmvTJi1zk294fFVSYRksK9Dg4/150x150.jpg"
             alt="Week 37 of 2011"
             width={100}
             height={100}
@@ -92,7 +92,7 @@ export default function Home() {
               className="w-full rounded h-10 opacity-50"
             >
               <source
-                src="https://audius-metadata-5.figment.io/v1/tracks/0R7PK/stream?app_name=sevaztian"
+                src="https://api.audius.co/v1/tracks/0R7PK/stream?app_name=sevaztian"
                 type="audio/mpeg"
               />
             </audio>

@@ -24,7 +24,7 @@ export default function Song({ song, artwork }) {
             className="w-full rounded h-10 opacity-50"
           >
             <source
-              src={`https://audius-metadata-5.figment.io/v1/tracks/${song.audius_id}/stream?app_name=sevaztian`}
+              src={`https://api.audius.co/v1/tracks/${song.audius_id}/stream?app_name=sevaztian`}
               type="audio/mpeg"
             />
           </audio>
@@ -117,7 +117,7 @@ export async function getStaticProps(context) {
   const song = songs.find((song) => song.slug == slug);
 
   const res = await fetch(
-    `https://discoveryprovider.audius.co/v1/tracks/${song.audius_id}?app_name=sevaztian`
+    `https://discoveryprovider.audius.co/v1/tracks/${song.audius_id}?app_name=sevaztian`,
   );
   const json = await res.json();
   const artwork = await json.data.artwork["480x480"];
