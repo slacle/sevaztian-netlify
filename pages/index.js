@@ -169,7 +169,7 @@ export default function Home() {
             </li>
             <li className="mb-1 ml-1">
               <a
-                href="http://patreon.com/sevaztian"
+                href="https://patreon.com/sevaztian"
                 className="text-sky-300 hover:text-sky-400"
               >
                 Patreon
