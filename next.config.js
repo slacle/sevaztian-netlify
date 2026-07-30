@@ -4,7 +4,12 @@ const nextConfig = {
   reactStrictMode: true,
   images: {
     unoptimized: true,
-    domains: ["https://creatornode.audius.co/"],
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "creatornode.audius.co",
+      },
+    ],
   },
 };
 
